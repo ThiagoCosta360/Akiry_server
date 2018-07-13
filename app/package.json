@@ -1,0 +1,30 @@
+{
+  "name": "node_desafio",
+  "version": "1.0.0",
+  "description": "Um servidor criado para o desafio Akiry",
+  "main": "server.js",
+  "bin": {
+    "node_desafio": "server.js"
+  },
+  "scripts": {
+    "start": "nodemon ./bin/index.js"
+  },
+  "keywords": [
+    "node",
+    "restify",
+    "elasticsearch",
+    "server"
+  ],
+  "author": "Thiago Costa",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^3.1.0",
+    "elasticsearch": "^15.1.1",
+    "http": "0.0.0",
+    "imdb-api": "^4.0.0",
+    "kibana": "^5.1.1",
+    "nodemon": "^1.17.5",
+    "npm": "^6.1.0",
+    "restify": "^7.2.1"
+  }
+}

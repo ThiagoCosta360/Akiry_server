@@ -1,0 +1,8417 @@
+[
+	{
+		"title" : "Toy Story (1995)",
+		"year" : 1995,
+		"genre" : ["Animation","Children","Comedy"]
+	},
+	{
+		"title" : "GoldenEye (1995)",
+		"year" : 1995,
+		"genre" : ["Action","Adventure","Thriller"]
+	},
+	{
+		"title" : "Four Rooms (1995)",
+		"year" : 1995,
+		"genre" : ["Thriller"]
+	},
+	{
+		"title" : "Get Shorty (1995)",
+		"year" : 1995,
+		"genre" : ["Action","Comedy","Drama"]
+	},
+	{
+		"title" : "Copycat (1995)",
+		"year" : 1995,
+		"genre" : ["Crime","Drama","Thriller"]
+	},
+	{
+		"title" : "Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Twelve Monkeys (1995)",
+		"year" : 1995,
+		"genre" : ["Drama","Sci-Fi"]
+	},
+	{
+		"title" : "Babe (1995)",
+		"year" : 1995,
+		"genre" : ["Children","Comedy","Drama"]
+	},
+	{
+		"title" : "Dead Man Walking (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Richard III (1995)",
+		"year" : 1996,
+		"genre" : ["Drama","War"]
+	},
+	{
+		"title" : "Seven (Se7en) (1995)",
+		"year" : 1995,
+		"genre" : ["Crime","Thriller"]
+	},
+	{
+		"title" : "Usual Suspects, The (1995)",
+		"year" : 1995,
+		"genre" : ["Crime","Thriller"]
+	},
+	{
+		"title" : "Mighty Aphrodite (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Postino, Il (1994)",
+		"year" : 1994,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Mr. Holland's Opus (1995)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "French Twist (Gazon maudit) (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "From Dusk Till Dawn (1996)",
+		"year" : 1996,
+		"genre" : ["Action","Comedy","Crime","Horror","Thriller"]
+	},
+	{
+		"title" : "White Balloon, The (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Antonia's Line (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Angels and Insects (1995)",
+		"year" : 1995,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Muppet Treasure Island (1996)",
+		"year" : 1996,
+		"genre" : ["Action","Adventure","Comedy","Musical","Thriller"]
+	},
+	{
+		"title" : "Braveheart (1995)",
+		"year" : 1996,
+		"genre" : ["Action","Drama","War"]
+	},
+	{
+		"title" : "Taxi Driver (1976)",
+		"year" : 1996,
+		"genre" : ["Drama","Thriller"]
+	},
+	{
+		"title" : "Rumble in the Bronx (1995)",
+		"year" : 1996,
+		"genre" : ["Action","Adventure","Crime"]
+	},
+	{
+		"title" : "Birdcage, The (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Brothers McMullen, The (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Bad Boys (1995)",
+		"year" : 1995,
+		"genre" : ["Action"]
+	},
+	{
+		"title" : "Apollo 13 (1995)",
+		"year" : 1995,
+		"genre" : ["Action","Drama","Thriller"]
+	},
+	{
+		"title" : "Batman Forever (1995)",
+		"year" : 1995,
+		"genre" : ["Action","Adventure","Comedy","Crime"]
+	},
+	{
+		"title" : "Belle de jour (1967)",
+		"year" : 1967,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Crimson Tide (1995)",
+		"year" : 1995,
+		"genre" : ["Drama","Thriller","War"]
+	},
+	{
+		"title" : "Crumb (1994)",
+		"year" : 1994,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "Desperado (1995)",
+		"year" : 1995,
+		"genre" : ["Action","Romance","Thriller"]
+	},
+	{
+		"title" : "Doom Generation, The (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Free Willy 2: The Adventure Home (1995)",
+		"year" : 1995,
+		"genre" : ["Adventure","Children","Drama"]
+	},
+	{
+		"title" : "Mad Love (1995)",
+		"year" : 1995,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Nadja (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Net, The (1995)",
+		"year" : 1995,
+		"genre" : ["Sci-Fi","Thriller"]
+	},
+	{
+		"title" : "Strange Days (1995)",
+		"year" : 1995,
+		"genre" : ["Action","Crime","Sci-Fi"]
+	},
+	{
+		"title" : "To Wong Foo, Thanks for Everything! Julie Newmar (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Billy Madison (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Clerks (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Disclosure (1994)",
+		"year" : 1994,
+		"genre" : ["Drama","Thriller"]
+	},
+	{
+		"title" : "Dolores Claiborne (1994)",
+		"year" : 1994,
+		"genre" : ["Drama","Thriller"]
+	},
+	{
+		"title" : "Eat Drink Man Woman (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Exotica (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Ed Wood (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Hoop Dreams (1994)",
+		"year" : 1994,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "I.Q. (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Star Wars (1977)",
+		"year" : 1977,
+		"genre" : ["Action","Adventure","Romance","Sci-Fi","War"]
+	},
+	{
+		"title" : "Legends of the Fall (1994)",
+		"year" : 1994,
+		"genre" : ["Drama","Romance","War","Western"]
+	},
+	{
+		"title" : "Madness of King George, The (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Natural Born Killers (1994)",
+		"year" : 1994,
+		"genre" : ["Action","Thriller"]
+	},
+	{
+		"title" : "Outbreak (1995)",
+		"year" : 1995,
+		"genre" : ["Action","Drama","Thriller"]
+	},
+	{
+		"title" : "Professional, The (1994)",
+		"year" : 1994,
+		"genre" : ["Crime","Drama","Romance","Thriller"]
+	},
+	{
+		"title" : "Pulp Fiction (1994)",
+		"year" : 1994,
+		"genre" : ["Crime","Drama"]
+	},
+	{
+		"title" : "Priest (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Quiz Show (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Three Colors: Red (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Three Colors: Blue (1993)",
+		"year" : 1993,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Three Colors: White (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Stargate (1994)",
+		"year" : 1994,
+		"genre" : ["Action","Adventure","Sci-Fi"]
+	},
+	{
+		"title" : "Santa Clause, The (1994)",
+		"year" : 1994,
+		"genre" : ["Children","Comedy"]
+	},
+	{
+		"title" : "Shawshank Redemption, The (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "What's Eating Gilbert Grape (1993)",
+		"year" : 1993,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "While You Were Sleeping (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Ace Ventura: Pet Detective (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Crow, The (1994)",
+		"year" : 1994,
+		"genre" : ["Action","Romance","Thriller"]
+	},
+	{
+		"title" : "Forrest Gump (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","Romance","War"]
+	},
+	{
+		"title" : "Four Weddings and a Funeral (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Lion King, The (1994)",
+		"year" : 1994,
+		"genre" : ["Animation","Children","Musical"]
+	},
+	{
+		"title" : "Mask, The (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","Crime","Fantasy"]
+	},
+	{
+		"title" : "Maverick (1994)",
+		"year" : 1994,
+		"genre" : ["Action","Comedy","Western"]
+	},
+	{
+		"title" : "Faster Pussycat! Kill! Kill! (1965)",
+		"year" : 1965,
+		"genre" : ["Action","Comedy","Drama"]
+	},
+	{
+		"title" : "Brother Minister: The Assassination of Malcolm X (1994)",
+		"year" : 1994,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "Carlito's Way (1993)",
+		"year" : 1993,
+		"genre" : ["Crime","Drama"]
+	},
+	{
+		"title" : "Firm, The (1993)",
+		"year" : 1993,
+		"genre" : ["Drama","Thriller"]
+	},
+	{
+		"title" : "Free Willy (1993)",
+		"year" : 1993,
+		"genre" : ["Adventure","Children","Drama"]
+	},
+	{
+		"title" : "Fugitive, The (1993)",
+		"year" : 1993,
+		"genre" : ["Action","Thriller"]
+	},
+	{
+		"title" : "Hot Shots! Part Deux (1993)",
+		"year" : 1993,
+		"genre" : ["Action","Comedy","War"]
+	},
+	{
+		"title" : "Hudsucker Proxy, The (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Jurassic Park (1993)",
+		"year" : 1993,
+		"genre" : ["Action","Adventure","Sci-Fi"]
+	},
+	{
+		"title" : "Much Ado About Nothing (1993)",
+		"year" : 1993,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Robert A. Heinlein's The Puppet Masters (1994)",
+		"year" : 1994,
+		"genre" : ["Horror","Sci-Fi"]
+	},
+	{
+		"title" : "Ref, The (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Remains of the Day, The (1993)",
+		"year" : 1993,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Searching for Bobby Fischer (1993)",
+		"year" : 1993,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Sleepless in Seattle (1993)",
+		"year" : 1993,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Blade Runner (1982)",
+		"year" : 1982,
+		"genre" : ["Film-Noir","Sci-Fi"]
+	},
+	{
+		"title" : "So I Married an Axe Murderer (1993)",
+		"year" : 1993,
+		"genre" : ["Comedy","Romance","Thriller"]
+	},
+	{
+		"title" : "Nightmare Before Christmas, The (1993)",
+		"year" : 1993,
+		"genre" : ["Children","Comedy","Musical"]
+	},
+	{
+		"title" : "True Romance (1993)",
+		"year" : 1993,
+		"genre" : ["Action","Crime","Romance"]
+	},
+	{
+		"title" : "Welcome to the Dollhouse (1995)",
+		"year" : 1996,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Home Alone (1990)",
+		"year" : 1990,
+		"genre" : ["Children","Comedy"]
+	},
+	{
+		"title" : "Aladdin (1992)",
+		"year" : 1992,
+		"genre" : ["Animation","Children","Comedy","Musical"]
+	},
+	{
+		"title" : "Terminator 2: Judgment Day (1991)",
+		"year" : 1991,
+		"genre" : ["Action","Sci-Fi","Thriller"]
+	},
+	{
+		"title" : "Dances with Wolves (1990)",
+		"year" : 1990,
+		"genre" : ["Adventure","Drama","Western"]
+	},
+	{
+		"title" : "Silence of the Lambs, The (1991)",
+		"year" : 1991,
+		"genre" : ["Drama","Thriller"]
+	},
+	{
+		"title" : "Snow White and the Seven Dwarfs (1937)",
+		"year" : 1937,
+		"genre" : ["Animation","Children","Musical"]
+	},
+	{
+		"title" : "Fargo (1996)",
+		"year" : 1997,
+		"genre" : ["Crime","Drama","Thriller"]
+	},
+	{
+		"title" : "Heavy Metal (1981)",
+		"year" : 1981,
+		"genre" : ["Action","Adventure","Animation","Horror","Sci-Fi"]
+	},
+	{
+		"title" : "Aristocats, The (1970)",
+		"year" : 1970,
+		"genre" : ["Animation","Children"]
+	},
+	{
+		"title" : "All Dogs Go to Heaven 2 (1996)",
+		"year" : 1996,
+		"genre" : ["Animation","Children","Musical"]
+	},
+	{
+		"title" : "Theodore Rex (1995)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Sgt. Bilko (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Diabolique (1996)",
+		"year" : 1996,
+		"genre" : ["Drama","Thriller"]
+	},
+	{
+		"title" : "Moll Flanders (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Kids in the Hall: Brain Candy (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Mystery Science Theater 3000: The Movie (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy","Sci-Fi"]
+	},
+	{
+		"title" : "Operation Dumbo Drop (1995)",
+		"year" : 1995,
+		"genre" : ["Action","Adventure","Comedy","War"]
+	},
+	{
+		"title" : "Truth About Cats & Dogs, The (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Flipper (1996)",
+		"year" : 1996,
+		"genre" : ["Adventure","Children"]
+	},
+	{
+		"title" : "Horseman on the Roof, The (Hussard sur le toit, Le) (1995)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Wallace & Gromit: The Best of Aardman Animation (1996)",
+		"year" : 1996,
+		"genre" : ["Animation"]
+	},
+	{
+		"title" : "Haunted World of Edward D. Wood Jr., The (1995)",
+		"year" : 1996,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "Cold Comfort Farm (1995)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Rock, The (1996)",
+		"year" : 1996,
+		"genre" : ["Action","Adventure","Thriller"]
+	},
+	{
+		"title" : "Twister (1996)",
+		"year" : 1996,
+		"genre" : ["Action","Adventure","Thriller"]
+	},
+	{
+		"title" : "Maya Lin: A Strong Clear Vision (1994)",
+		"year" : 1994,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "Striptease (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy","Crime"]
+	},
+	{
+		"title" : "Independence Day (ID4) (1996)",
+		"year" : 1996,
+		"genre" : ["Action","Sci-Fi","War"]
+	},
+	{
+		"title" : "Cable Guy, The (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Frighteners, The (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy","Horror"]
+	},
+	{
+		"title" : "Lone Star (1996)",
+		"year" : 1996,
+		"genre" : ["Drama","Mystery"]
+	},
+	{
+		"title" : "Phenomenon (1996)",
+		"year" : 1996,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Spitfire Grill, The (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Godfather, The (1972)",
+		"year" : 1972,
+		"genre" : ["Action","Crime","Drama"]
+	},
+	{
+		"title" : "Supercop (1992)",
+		"year" : 1996,
+		"genre" : ["Action","Thriller"]
+	},
+	{
+		"title" : "Bound (1996)",
+		"year" : 1996,
+		"genre" : ["Crime","Drama","Romance","Thriller"]
+	},
+	{
+		"title" : "Kansas City (1996)",
+		"year" : 1996,
+		"genre" : ["Crime"]
+	},
+	{
+		"title" : "Breakfast at Tiffany's (1961)",
+		"year" : 1961,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Wizard of Oz, The (1939)",
+		"year" : 1939,
+		"genre" : ["Adventure","Children","Drama","Musical"]
+	},
+	{
+		"title" : "Gone with the Wind (1939)",
+		"year" : 1939,
+		"genre" : ["Drama","Romance","War"]
+	},
+	{
+		"title" : "Citizen Kane (1941)",
+		"year" : 1941,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "2001: A Space Odyssey (1968)",
+		"year" : 1968,
+		"genre" : ["Drama","Mystery","Sci-Fi","Thriller"]
+	},
+	{
+		"title" : "Mr. Smith Goes to Washington (1939)",
+		"year" : 1939,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Big Night (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "D3: The Mighty Ducks (1996)",
+		"year" : 1996,
+		"genre" : ["Children","Comedy"]
+	},
+	{
+		"title" : "Love Bug, The (1969)",
+		"year" : 1969,
+		"genre" : ["Children","Comedy"]
+	},
+	{
+		"title" : "Homeward Bound: The Incredible Journey (1993)",
+		"year" : 1993,
+		"genre" : ["Adventure","Children"]
+	},
+	{
+		"title" : "20,000 Leagues Under the Sea (1954)",
+		"year" : 1954,
+		"genre" : ["Adventure","Children","Fantasy","Sci-Fi"]
+	},
+	{
+		"title" : "Bedknobs and Broomsticks (1971)",
+		"year" : 1971,
+		"genre" : ["Adventure","Children","Musical"]
+	},
+	{
+		"title" : "Sound of Music, The (1965)",
+		"year" : 1965,
+		"genre" : ["Musical"]
+	},
+	{
+		"title" : "Die Hard (1988)",
+		"year" : 1988,
+		"genre" : ["Action","Thriller"]
+	},
+	{
+		"title" : "Lawnmower Man, The (1992)",
+		"year" : 1992,
+		"genre" : ["Action","Sci-Fi","Thriller"]
+	},
+	{
+		"title" : "Unhook the Stars (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Long Kiss Goodnight, The (1996)",
+		"year" : 1996,
+		"genre" : ["Action","Thriller"]
+	},
+	{
+		"title" : "Ghost and the Darkness, The (1996)",
+		"year" : 1996,
+		"genre" : ["Action","Adventure"]
+	},
+	{
+		"title" : "Jude (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Swingers (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Willy Wonka and the Chocolate Factory (1971)",
+		"year" : 1971,
+		"genre" : ["Adventure","Children","Comedy"]
+	},
+	{
+		"title" : "Sleeper (1973)",
+		"year" : 1973,
+		"genre" : ["Comedy","Sci-Fi"]
+	},
+	{
+		"title" : "Fish Called Wanda, A (1988)",
+		"year" : 1988,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Monty Python's Life of Brian (1979)",
+		"year" : 1979,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Dirty Dancing (1987)",
+		"year" : 1987,
+		"genre" : ["Musical","Romance"]
+	},
+	{
+		"title" : "Reservoir Dogs (1992)",
+		"year" : 1992,
+		"genre" : ["Crime","Thriller"]
+	},
+	{
+		"title" : "Platoon (1986)",
+		"year" : 1986,
+		"genre" : ["Drama","War"]
+	},
+	{
+		"title" : "Weekend at Bernie's (1989)",
+		"year" : 1989,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Basic Instinct (1992)",
+		"year" : 1992,
+		"genre" : ["Mystery","Thriller"]
+	},
+	{
+		"title" : "Glengarry Glen Ross (1992)",
+		"year" : 1992,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Top Gun (1986)",
+		"year" : 1986,
+		"genre" : ["Action","Romance"]
+	},
+	{
+		"title" : "On Golden Pond (1981)",
+		"year" : 1981,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Return of the Pink Panther, The (1974)",
+		"year" : 1974,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Abyss, The (1989)",
+		"year" : 1989,
+		"genre" : ["Action","Adventure","Sci-Fi","Thriller"]
+	},
+	{
+		"title" : "Jean de Florette (1986)",
+		"year" : 1986,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Manon of the Spring (Manon des sources) (1986)",
+		"year" : 1986,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Private Benjamin (1980)",
+		"year" : 1980,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Monty Python and the Holy Grail (1974)",
+		"year" : 1974,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Wrong Trousers, The (1993)",
+		"year" : 1993,
+		"genre" : ["Animation","Comedy"]
+	},
+	{
+		"title" : "Cinema Paradiso (1988)",
+		"year" : 1988,
+		"genre" : ["Comedy","Drama","Romance"]
+	},
+	{
+		"title" : "Delicatessen (1991)",
+		"year" : 1991,
+		"genre" : ["Comedy","Sci-Fi"]
+	},
+	{
+		"title" : "Empire Strikes Back, The (1980)",
+		"year" : 1980,
+		"genre" : ["Action","Adventure","Drama","Romance","Sci-Fi","War"]
+	},
+	{
+		"title" : "Princess Bride, The (1987)",
+		"year" : 1987,
+		"genre" : ["Action","Adventure","Comedy","Romance"]
+	},
+	{
+		"title" : "Raiders of the Lost Ark (1981)",
+		"year" : 1981,
+		"genre" : ["Action","Adventure"]
+	},
+	{
+		"title" : "Brazil (1985)",
+		"year" : 1985,
+		"genre" : ["Sci-Fi"]
+	},
+	{
+		"title" : "Aliens (1986)",
+		"year" : 1986,
+		"genre" : ["Action","Sci-Fi","Thriller","War"]
+	},
+	{
+		"title" : "Good, The Bad and The Ugly, The (1966)",
+		"year" : 1966,
+		"genre" : ["Action","Western"]
+	},
+	{
+		"title" : "12 Angry Men (1957)",
+		"year" : 1957,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Clockwork Orange, A (1971)",
+		"year" : 1971,
+		"genre" : ["Sci-Fi"]
+	},
+	{
+		"title" : "Apocalypse Now (1979)",
+		"year" : 1979,
+		"genre" : ["Drama","War"]
+	},
+	{
+		"title" : "Return of the Jedi (1983)",
+		"year" : 1997,
+		"genre" : ["Action","Adventure","Romance","Sci-Fi","War"]
+	},
+	{
+		"title" : "GoodFellas (1990)",
+		"year" : 1990,
+		"genre" : ["Crime","Drama"]
+	},
+	{
+		"title" : "Alien (1979)",
+		"year" : 1979,
+		"genre" : ["Action","Horror","Sci-Fi","Thriller"]
+	},
+	{
+		"title" : "Army of Darkness (1993)",
+		"year" : 1993,
+		"genre" : ["Action","Adventure","Comedy","Horror","Sci-Fi"]
+	},
+	{
+		"title" : "Psycho (1960)",
+		"year" : 1960,
+		"genre" : ["Horror","Romance","Thriller"]
+	},
+	{
+		"title" : "Blues Brothers, The (1980)",
+		"year" : 1980,
+		"genre" : ["Action","Comedy","Musical"]
+	},
+	{
+		"title" : "Godfather: Part II, The (1974)",
+		"year" : 1974,
+		"genre" : ["Action","Crime","Drama"]
+	},
+	{
+		"title" : "Full Metal Jacket (1987)",
+		"year" : 1987,
+		"genre" : ["Action","Drama","War"]
+	},
+	{
+		"title" : "Grand Day Out, A (1992)",
+		"year" : 1992,
+		"genre" : ["Animation","Comedy"]
+	},
+	{
+		"title" : "Henry V (1989)",
+		"year" : 1989,
+		"genre" : ["Drama","War"]
+	},
+	{
+		"title" : "Amadeus (1984)",
+		"year" : 1984,
+		"genre" : ["Drama","Mystery"]
+	},
+	{
+		"title" : "Raging Bull (1980)",
+		"year" : 1980,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Right Stuff, The (1983)",
+		"year" : 1983,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Sting, The (1973)",
+		"year" : 1973,
+		"genre" : ["Comedy","Crime"]
+	},
+	{
+		"title" : "Terminator, The (1984)",
+		"year" : 1984,
+		"genre" : ["Action","Sci-Fi","Thriller"]
+	},
+	{
+		"title" : "Dead Poets Society (1989)",
+		"year" : 1989,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Graduate, The (1967)",
+		"year" : 1967,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Nikita (La Femme Nikita) (1990)",
+		"year" : 1990,
+		"genre" : ["Thriller"]
+	},
+	{
+		"title" : "Bridge on the River Kwai, The (1957)",
+		"year" : 1957,
+		"genre" : ["Drama","War"]
+	},
+	{
+		"title" : "Shining, The (1980)",
+		"year" : 1980,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Evil Dead II (1987)",
+		"year" : 1987,
+		"genre" : ["Action","Adventure","Comedy","Horror"]
+	},
+	{
+		"title" : "Groundhog Day (1993)",
+		"year" : 1993,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Unforgiven (1992)",
+		"year" : 1992,
+		"genre" : ["Western"]
+	},
+	{
+		"title" : "Back to the Future (1985)",
+		"year" : 1985,
+		"genre" : ["Comedy","Sci-Fi"]
+	},
+	{
+		"title" : "Patton (1970)",
+		"year" : 1970,
+		"genre" : ["Drama","War"]
+	},
+	{
+		"title" : "Akira (1988)",
+		"year" : 1988,
+		"genre" : ["Adventure","Animation","Sci-Fi","Thriller"]
+	},
+	{
+		"title" : "Cyrano de Bergerac (1990)",
+		"year" : 1990,
+		"genre" : ["Action","Drama","Romance"]
+	},
+	{
+		"title" : "Young Frankenstein (1974)",
+		"year" : 1974,
+		"genre" : ["Comedy","Horror"]
+	},
+	{
+		"title" : "This Is Spinal Tap (1984)",
+		"year" : 1984,
+		"genre" : ["Comedy","Drama","Musical"]
+	},
+	{
+		"title" : "Indiana Jones and the Last Crusade (1989)",
+		"year" : 1989,
+		"genre" : ["Action","Adventure"]
+	},
+	{
+		"title" : "M*A*S*H (1970)",
+		"year" : 1970,
+		"genre" : ["Comedy","War"]
+	},
+	{
+		"title" : "Unbearable Lightness of Being, The (1988)",
+		"year" : 1988,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Room with a View, A (1986)",
+		"year" : 1986,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Pink Floyd - The Wall (1982)",
+		"year" : 1982,
+		"genre" : ["Drama","Musical","War"]
+	},
+	{
+		"title" : "Field of Dreams (1989)",
+		"year" : 1989,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "When Harry Met Sally... (1989)",
+		"year" : 1989,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Bram Stoker's Dracula (1992)",
+		"year" : 1992,
+		"genre" : ["Horror","Romance"]
+	},
+	{
+		"title" : "Cape Fear (1991)",
+		"year" : 1991,
+		"genre" : ["Thriller"]
+	},
+	{
+		"title" : "Nightmare on Elm Street, A (1984)",
+		"year" : 1984,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Mirror Has Two Faces, The (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Breaking the Waves (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Star Trek: First Contact (1996)",
+		"year" : 1996,
+		"genre" : ["Action","Adventure","Sci-Fi"]
+	},
+	{
+		"title" : "Sling Blade (1996)",
+		"year" : 1996,
+		"genre" : ["Drama","Thriller"]
+	},
+	{
+		"title" : "Ridicule (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "101 Dalmatians (1996)",
+		"year" : 1996,
+		"genre" : ["Children","Comedy"]
+	},
+	{
+		"title" : "Die Hard 2 (1990)",
+		"year" : 1990,
+		"genre" : ["Action","Thriller"]
+	},
+	{
+		"title" : "Star Trek VI: The Undiscovered Country (1991)",
+		"year" : 1991,
+		"genre" : ["Action","Adventure","Sci-Fi"]
+	},
+	{
+		"title" : "Star Trek: The Wrath of Khan (1982)",
+		"year" : 1982,
+		"genre" : ["Action","Adventure","Sci-Fi"]
+	},
+	{
+		"title" : "Star Trek III: The Search for Spock (1984)",
+		"year" : 1984,
+		"genre" : ["Action","Adventure","Sci-Fi"]
+	},
+	{
+		"title" : "Star Trek IV: The Voyage Home (1986)",
+		"year" : 1986,
+		"genre" : ["Action","Adventure","Sci-Fi"]
+	},
+	{
+		"title" : "Batman Returns (1992)",
+		"year" : 1992,
+		"genre" : ["Action","Adventure","Comedy","Crime"]
+	},
+	{
+		"title" : "Young Guns (1988)",
+		"year" : 1988,
+		"genre" : ["Action","Comedy","Western"]
+	},
+	{
+		"title" : "Under Siege (1992)",
+		"year" : 1992,
+		"genre" : ["Action"]
+	},
+	{
+		"title" : "Jaws (1975)",
+		"year" : 1975,
+		"genre" : ["Action","Horror"]
+	},
+	{
+		"title" : "Mars Attacks! (1996)",
+		"year" : 1996,
+		"genre" : ["Action","Comedy","Sci-Fi","War"]
+	},
+	{
+		"title" : "Citizen Ruth (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Jerry Maguire (1996)",
+		"year" : 1996,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Raising Arizona (1987)",
+		"year" : 1987,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Sneakers (1992)",
+		"year" : 1992,
+		"genre" : ["Crime","Drama","Sci-Fi"]
+	},
+	{
+		"title" : "Beavis and Butt-head Do America (1996)",
+		"year" : 1996,
+		"genre" : ["Animation","Comedy"]
+	},
+	{
+		"title" : "Last of the Mohicans, The (1992)",
+		"year" : 1992,
+		"genre" : ["Action","Romance","War"]
+	},
+	{
+		"title" : "Kolya (1996)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Jungle2Jungle (1997)",
+		"year" : 1997,
+		"genre" : ["Children","Comedy"]
+	},
+	{
+		"title" : "Smilla's Sense of Snow (1997)",
+		"year" : 1997,
+		"genre" : ["Action","Drama","Thriller"]
+	},
+	{
+		"title" : "Devil's Own, The (1997)",
+		"year" : 1997,
+		"genre" : ["Action","Drama","Thriller","War"]
+	},
+	{
+		"title" : "Chasing Amy (1997)",
+		"year" : 1997,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Turbo: A Power Rangers Movie (1997)",
+		"year" : 1997,
+		"genre" : ["Action","Adventure","Children"]
+	},
+	{
+		"title" : "Grosse Pointe Blank (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy","Crime"]
+	},
+	{
+		"title" : "Austin Powers: International Man of Mystery (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Fifth Element, The (1997)",
+		"year" : 1997,
+		"genre" : ["Action","Sci-Fi"]
+	},
+	{
+		"title" : "Shall We Dance? (1996)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Lost World: Jurassic Park, The (1997)",
+		"year" : 1997,
+		"genre" : ["Action","Adventure","Sci-Fi","Thriller"]
+	},
+	{
+		"title" : "Pillow Book, The (1995)",
+		"year" : 1997,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Batman & Robin (1997)",
+		"year" : 1997,
+		"genre" : ["Action","Adventure","Crime"]
+	},
+	{
+		"title" : "My Best Friend's Wedding (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "When the Cats Away (Chacun cherche son chat) (1996)",
+		"year" : 1997,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Men in Black (1997)",
+		"year" : 1997,
+		"genre" : ["Action","Adventure","Comedy","Sci-Fi"]
+	},
+	{
+		"title" : "Contact (1997)",
+		"year" : 1997,
+		"genre" : ["Drama","Sci-Fi"]
+	},
+	{
+		"title" : "George of the Jungle (1997)",
+		"year" : 1997,
+		"genre" : ["Children","Comedy"]
+	},
+	{
+		"title" : "Event Horizon (1997)",
+		"year" : 1997,
+		"genre" : ["Action","Mystery","Sci-Fi","Thriller"]
+	},
+	{
+		"title" : "Air Bud (1997)",
+		"year" : 1997,
+		"genre" : ["Children","Comedy"]
+	},
+	{
+		"title" : "In the Company of Men (1997)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Steel (1997)",
+		"year" : 1997,
+		"genre" : ["Action"]
+	},
+	{
+		"title" : "Mimic (1997)",
+		"year" : 1997,
+		"genre" : ["Sci-Fi","Thriller"]
+	},
+	{
+		"title" : "Hunt for Red October, The (1990)",
+		"year" : 1990,
+		"genre" : ["Action","Thriller"]
+	},
+	{
+		"title" : "Kull the Conqueror (1997)",
+		"year" : 1997,
+		"genre" : ["Action","Adventure"]
+	},
+	{
+		"title" : "unknown",
+		"year" : 1997,
+		"genre" : ["Action","Adventure"]
+	},
+	{
+		"title" : "",
+		"year" : 1997,
+		"genre" : []
+	},
+	{
+		"title" : "Chasing Amy (1997)",
+		"year" : 1997,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Full Monty, The (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Gattaca (1997)",
+		"year" : 1997,
+		"genre" : ["Drama","Sci-Fi","Thriller"]
+	},
+	{
+		"title" : "Starship Troopers (1997)",
+		"year" : 1997,
+		"genre" : ["Action","Adventure","Sci-Fi","War"]
+	},
+	{
+		"title" : "Good Will Hunting (1997)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Heat (1995)",
+		"year" : 1995,
+		"genre" : ["Action","Crime","Thriller"]
+	},
+	{
+		"title" : "Sabrina (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Sense and Sensibility (1995)",
+		"year" : 1995,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Leaving Las Vegas (1995)",
+		"year" : 1995,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Restoration (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Bed of Roses (1996)",
+		"year" : 1996,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Once Upon a Time... When We Were Colored (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Up Close and Personal (1996)",
+		"year" : 1996,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "River Wild, The (1994)",
+		"year" : 1994,
+		"genre" : ["Action","Thriller"]
+	},
+	{
+		"title" : "Time to Kill, A (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Emma (1996)",
+		"year" : 1996,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Tin Cup (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Secrets & Lies (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "English Patient, The (1996)",
+		"year" : 1996,
+		"genre" : ["Drama","Romance","War"]
+	},
+	{
+		"title" : "Marvin's Room (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Scream (1996)",
+		"year" : 1996,
+		"genre" : ["Horror","Thriller"]
+	},
+	{
+		"title" : "Evita (1996)",
+		"year" : 1996,
+		"genre" : ["Drama","Musical"]
+	},
+	{
+		"title" : "Fierce Creatures (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Absolute Power (1997)",
+		"year" : 1997,
+		"genre" : ["Mystery","Thriller"]
+	},
+	{
+		"title" : "Rosewood (1997)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Donnie Brasco (1997)",
+		"year" : 1997,
+		"genre" : ["Crime","Drama"]
+	},
+	{
+		"title" : "Liar Liar (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Breakdown (1997)",
+		"year" : 1997,
+		"genre" : ["Action","Thriller"]
+	},
+	{
+		"title" : "Promesse, La (1996)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Ulee's Gold (1997)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Face/Off (1997)",
+		"year" : 1997,
+		"genre" : ["Action","Sci-Fi","Thriller"]
+	},
+	{
+		"title" : "Hoodlum (1997)",
+		"year" : 1997,
+		"genre" : ["Crime","Drama","Film-Noir"]
+	},
+	{
+		"title" : "Air Force One (1997)",
+		"year" : 1997,
+		"genre" : ["Action","Thriller"]
+	},
+	{
+		"title" : "In & Out (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "L.A. Confidential (1997)",
+		"year" : 1997,
+		"genre" : ["Crime","Film-Noir","Mystery","Thriller"]
+	},
+	{
+		"title" : "Ulee's Gold (1997)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Fly Away Home (1996)",
+		"year" : 1996,
+		"genre" : ["Adventure","Children"]
+	},
+	{
+		"title" : "Ice Storm, The (1997)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Mrs. Brown (Her Majesty, Mrs. Brown) (1997)",
+		"year" : 1997,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Devil's Advocate, The (1997)",
+		"year" : 1997,
+		"genre" : ["Crime","Horror","Mystery","Thriller"]
+	},
+	{
+		"title" : "FairyTale: A True Story (1997)",
+		"year" : 1997,
+		"genre" : ["Children","Drama","Fantasy"]
+	},
+	{
+		"title" : "Deceiver (1997)",
+		"year" : 1997,
+		"genre" : ["Crime"]
+	},
+	{
+		"title" : "Rainmaker, The (1997)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Wings of the Dove, The (1997)",
+		"year" : 1997,
+		"genre" : ["Drama","Romance","Thriller"]
+	},
+	{
+		"title" : "Midnight in the Garden of Good and Evil (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy","Crime","Drama","Mystery"]
+	},
+	{
+		"title" : "Titanic (1997)",
+		"year" : 1997,
+		"genre" : ["Action","Drama","Romance"]
+	},
+	{
+		"title" : "3 Ninjas: High Noon At Mega Mountain (1998)",
+		"year" : 1997,
+		"genre" : ["Action","Children"]
+	},
+	{
+		"title" : "Apt Pupil (1998)",
+		"year" : 1998,
+		"genre" : ["Drama","Thriller"]
+	},
+	{
+		"title" : "As Good As It Gets (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "In the Name of the Father (1993)",
+		"year" : 1993,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Schindler's List (1993)",
+		"year" : 1993,
+		"genre" : ["Drama","War"]
+	},
+	{
+		"title" : "Everyone Says I Love You (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy","Musical","Romance"]
+	},
+	{
+		"title" : "Paradise Lost: The Child Murders at Robin Hood Hills (1996)",
+		"year" : 1996,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "Mother (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Murder at 1600 (1997)",
+		"year" : 1997,
+		"genre" : ["Mystery","Thriller"]
+	},
+	{
+		"title" : "Dante's Peak (1997)",
+		"year" : 1997,
+		"genre" : ["Action","Thriller"]
+	},
+	{
+		"title" : "Lost Highway (1997)",
+		"year" : 1997,
+		"genre" : ["Mystery"]
+	},
+	{
+		"title" : "Crash (1996)",
+		"year" : 1997,
+		"genre" : ["Drama","Thriller"]
+	},
+	{
+		"title" : "G.I. Jane (1997)",
+		"year" : 1997,
+		"genre" : ["Action","Drama","War"]
+	},
+	{
+		"title" : "Cop Land (1997)",
+		"year" : 1997,
+		"genre" : ["Crime","Drama","Mystery"]
+	},
+	{
+		"title" : "Conspiracy Theory (1997)",
+		"year" : 1997,
+		"genre" : ["Action","Mystery","Romance","Thriller"]
+	},
+	{
+		"title" : "Desperate Measures (1998)",
+		"year" : 1998,
+		"genre" : ["Crime","Drama","Thriller"]
+	},
+	{
+		"title" : "187 (1997)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Edge, The (1997)",
+		"year" : 1997,
+		"genre" : ["Adventure","Thriller"]
+	},
+	{
+		"title" : "Kiss the Girls (1997)",
+		"year" : 1997,
+		"genre" : ["Crime","Drama","Thriller"]
+	},
+	{
+		"title" : "Game, The (1997)",
+		"year" : 1997,
+		"genre" : ["Mystery","Thriller"]
+	},
+	{
+		"title" : "U Turn (1997)",
+		"year" : 1997,
+		"genre" : ["Action","Crime","Mystery"]
+	},
+	{
+		"title" : "How to Be a Player (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Playing God (1997)",
+		"year" : 1997,
+		"genre" : ["Crime","Thriller"]
+	},
+	{
+		"title" : "House of Yes, The (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy","Drama","Thriller"]
+	},
+	{
+		"title" : "Bean (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Mad City (1997)",
+		"year" : 1997,
+		"genre" : ["Action","Drama"]
+	},
+	{
+		"title" : "Boogie Nights (1997)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Critical Care (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Man Who Knew Too Little, The (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy","Mystery"]
+	},
+	{
+		"title" : "Alien: Resurrection (1997)",
+		"year" : 1997,
+		"genre" : ["Action","Horror","Sci-Fi"]
+	},
+	{
+		"title" : "Apostle, The (1997)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Deconstructing Harry (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Jackie Brown (1997)",
+		"year" : 1997,
+		"genre" : ["Crime","Drama"]
+	},
+	{
+		"title" : "Wag the Dog (1997)",
+		"year" : 1998,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Desperate Measures (1998)",
+		"year" : 1998,
+		"genre" : ["Crime","Drama","Thriller"]
+	},
+	{
+		"title" : "Hard Rain (1998)",
+		"year" : 1998,
+		"genre" : ["Action","Thriller"]
+	},
+	{
+		"title" : "Fallen (1998)",
+		"year" : 1998,
+		"genre" : ["Action","Mystery","Thriller"]
+	},
+	{
+		"title" : "Prophecy II, The (1998)",
+		"year" : 1998,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Spice World (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy","Musical"]
+	},
+	{
+		"title" : "Deep Rising (1998)",
+		"year" : 1998,
+		"genre" : ["Action","Horror","Sci-Fi"]
+	},
+	{
+		"title" : "Wedding Singer, The (1998)",
+		"year" : 1998,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Sphere (1998)",
+		"year" : 1998,
+		"genre" : ["Adventure","Sci-Fi","Thriller"]
+	},
+	{
+		"title" : "Client, The (1994)",
+		"year" : 1994,
+		"genre" : ["Drama","Mystery","Thriller"]
+	},
+	{
+		"title" : "One Flew Over the Cuckoo's Nest (1975)",
+		"year" : 1975,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Spawn (1997)",
+		"year" : 1997,
+		"genre" : ["Action","Adventure","Sci-Fi","Thriller"]
+	},
+	{
+		"title" : "Assignment, The (1997)",
+		"year" : 1997,
+		"genre" : ["Thriller"]
+	},
+	{
+		"title" : "Wonderland (1997)",
+		"year" : 1997,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "Incognito (1997)",
+		"year" : 1997,
+		"genre" : ["Crime","Thriller"]
+	},
+	{
+		"title" : "Blues Brothers 2000 (1998)",
+		"year" : 1998,
+		"genre" : ["Action","Comedy","Musical"]
+	},
+	{
+		"title" : "Sudden Death (1995)",
+		"year" : 1995,
+		"genre" : ["Action"]
+	},
+	{
+		"title" : "Ace Ventura: When Nature Calls (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Powder (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Dangerous Minds (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Clueless (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Bio-Dome (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Black Sheep (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Mary Reilly (1996)",
+		"year" : 1996,
+		"genre" : ["Drama","Thriller"]
+	},
+	{
+		"title" : "Bridges of Madison County, The (1995)",
+		"year" : 1996,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Jeffrey (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Judge Dredd (1995)",
+		"year" : 1995,
+		"genre" : ["Action","Adventure","Sci-Fi"]
+	},
+	{
+		"title" : "Mighty Morphin Power Rangers: The Movie (1995)",
+		"year" : 1995,
+		"genre" : ["Action","Children"]
+	},
+	{
+		"title" : "Showgirls (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Houseguest (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Heavyweights (1994)",
+		"year" : 1994,
+		"genre" : ["Children","Comedy"]
+	},
+	{
+		"title" : "Miracle on 34th Street (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Tales From the Crypt Presents: Demon Knight (1995)",
+		"year" : 1995,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Star Trek: Generations (1994)",
+		"year" : 1994,
+		"genre" : ["Action","Adventure","Sci-Fi"]
+	},
+	{
+		"title" : "Muriel's Wedding (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Adventures of Priscilla, Queen of the Desert, The (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Flintstones, The (1994)",
+		"year" : 1994,
+		"genre" : ["Children","Comedy"]
+	},
+	{
+		"title" : "Naked Gun 33 1/3: The Final Insult (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "True Lies (1994)",
+		"year" : 1994,
+		"genre" : ["Action","Adventure","Comedy","Romance"]
+	},
+	{
+		"title" : "Addams Family Values (1993)",
+		"year" : 1993,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Age of Innocence, The (1993)",
+		"year" : 1993,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Beverly Hills Cop III (1994)",
+		"year" : 1994,
+		"genre" : ["Action","Comedy"]
+	},
+	{
+		"title" : "Black Beauty (1994)",
+		"year" : 1994,
+		"genre" : ["Adventure","Children"]
+	},
+	{
+		"title" : "Fear of a Black Hat (1993)",
+		"year" : 1993,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Last Action Hero (1993)",
+		"year" : 1993,
+		"genre" : ["Action","Comedy"]
+	},
+	{
+		"title" : "Man Without a Face, The (1993)",
+		"year" : 1993,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Mrs. Doubtfire (1993)",
+		"year" : 1993,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Radioland Murders (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","Mystery","Romance"]
+	},
+	{
+		"title" : "Robin Hood: Men in Tights (1993)",
+		"year" : 1993,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Serial Mom (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","Crime","Horror"]
+	},
+	{
+		"title" : "Striking Distance (1993)",
+		"year" : 1993,
+		"genre" : ["Action"]
+	},
+	{
+		"title" : "Super Mario Bros. (1993)",
+		"year" : 1993,
+		"genre" : ["Action","Adventure","Children","Sci-Fi"]
+	},
+	{
+		"title" : "Three Musketeers, The (1993)",
+		"year" : 1993,
+		"genre" : ["Action","Adventure","Comedy"]
+	},
+	{
+		"title" : "Little Rascals, The (1994)",
+		"year" : 1994,
+		"genre" : ["Children","Comedy"]
+	},
+	{
+		"title" : "Brady Bunch Movie, The (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Ghost (1990)",
+		"year" : 1990,
+		"genre" : ["Comedy","Romance","Thriller"]
+	},
+	{
+		"title" : "Batman (1989)",
+		"year" : 1989,
+		"genre" : ["Action","Adventure","Crime","Drama"]
+	},
+	{
+		"title" : "Pinocchio (1940)",
+		"year" : 1940,
+		"genre" : ["Animation","Children"]
+	},
+	{
+		"title" : "Mission: Impossible (1996)",
+		"year" : 1996,
+		"genre" : ["Action","Adventure","Mystery"]
+	},
+	{
+		"title" : "Thinner (1996)",
+		"year" : 1996,
+		"genre" : ["Horror","Thriller"]
+	},
+	{
+		"title" : "Spy Hard (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Close Shave, A (1995)",
+		"year" : 1996,
+		"genre" : ["Animation","Comedy","Thriller"]
+	},
+	{
+		"title" : "Jack (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Kingpin (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Nutty Professor, The (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy","Fantasy","Romance","Sci-Fi"]
+	},
+	{
+		"title" : "Very Brady Sequel, A (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Tales from the Crypt Presents: Bordello of Blood (1996)",
+		"year" : 1996,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "My Favorite Year (1982)",
+		"year" : 1982,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Apple Dumpling Gang, The (1975)",
+		"year" : 1975,
+		"genre" : ["Children","Comedy","Western"]
+	},
+	{
+		"title" : "Old Yeller (1957)",
+		"year" : 1957,
+		"genre" : ["Children","Drama"]
+	},
+	{
+		"title" : "Parent Trap, The (1961)",
+		"year" : 1961,
+		"genre" : ["Children","Drama"]
+	},
+	{
+		"title" : "Cinderella (1950)",
+		"year" : 1950,
+		"genre" : ["Animation","Children","Musical"]
+	},
+	{
+		"title" : "Mary Poppins (1964)",
+		"year" : 1964,
+		"genre" : ["Children","Comedy","Musical"]
+	},
+	{
+		"title" : "Alice in Wonderland (1951)",
+		"year" : 1951,
+		"genre" : ["Animation","Children","Musical"]
+	},
+	{
+		"title" : "William Shakespeare's Romeo and Juliet (1996)",
+		"year" : 1996,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Aladdin and the King of Thieves (1996)",
+		"year" : 1996,
+		"genre" : ["Animation","Children","Comedy"]
+	},
+	{
+		"title" : "E.T. the Extra-Terrestrial (1982)",
+		"year" : 1982,
+		"genre" : ["Children","Drama","Fantasy","Sci-Fi"]
+	},
+	{
+		"title" : "Children of the Corn: The Gathering (1996)",
+		"year" : 1996,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Bob Roberts (1992)",
+		"year" : 1992,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Transformers: The Movie, The (1986)",
+		"year" : 1986,
+		"genre" : ["Action","Animation","Children","Sci-Fi","Thriller","War"]
+	},
+	{
+		"title" : "To Kill a Mockingbird (1962)",
+		"year" : 1962,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Harold and Maude (1971)",
+		"year" : 1971,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Day the Earth Stood Still, The (1951)",
+		"year" : 1951,
+		"genre" : ["Drama","Sci-Fi"]
+	},
+	{
+		"title" : "Duck Soup (1933)",
+		"year" : 1933,
+		"genre" : ["Comedy","War"]
+	},
+	{
+		"title" : "Highlander (1986)",
+		"year" : 1986,
+		"genre" : ["Action","Adventure"]
+	},
+	{
+		"title" : "Fantasia (1940)",
+		"year" : 1940,
+		"genre" : ["Animation","Children","Musical"]
+	},
+	{
+		"title" : "Heathers (1989)",
+		"year" : 1989,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Forbidden Planet (1956)",
+		"year" : 1956,
+		"genre" : ["Sci-Fi"]
+	},
+	{
+		"title" : "Butch Cassidy and the Sundance Kid (1969)",
+		"year" : 1969,
+		"genre" : ["Action","Comedy","Western"]
+	},
+	{
+		"title" : "American Werewolf in London, An (1981)",
+		"year" : 1981,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Amityville 1992: It's About Time (1992)",
+		"year" : 1992,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Amityville 3-D (1983)",
+		"year" : 1983,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Amityville: A New Generation (1993)",
+		"year" : 1993,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Amityville II: The Possession (1982)",
+		"year" : 1982,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Amityville Horror, The (1979)",
+		"year" : 1979,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Amityville Curse, The (1990)",
+		"year" : 1990,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Birds, The (1963)",
+		"year" : 1963,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Blob, The (1958)",
+		"year" : 1958,
+		"genre" : ["Horror","Sci-Fi"]
+	},
+	{
+		"title" : "Body Snatcher, The (1945)",
+		"year" : 1945,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Burnt Offerings (1976)",
+		"year" : 1976,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Carrie (1976)",
+		"year" : 1976,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Omen, The (1976)",
+		"year" : 1976,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Star Trek: The Motion Picture (1979)",
+		"year" : 1979,
+		"genre" : ["Action","Adventure","Sci-Fi"]
+	},
+	{
+		"title" : "Star Trek V: The Final Frontier (1989)",
+		"year" : 1989,
+		"genre" : ["Action","Adventure","Sci-Fi"]
+	},
+	{
+		"title" : "Grease (1978)",
+		"year" : 1978,
+		"genre" : ["Comedy","Musical","Romance"]
+	},
+	{
+		"title" : "Jaws 2 (1978)",
+		"year" : 1978,
+		"genre" : ["Action","Horror"]
+	},
+	{
+		"title" : "Jaws 3-D (1983)",
+		"year" : 1983,
+		"genre" : ["Action","Horror"]
+	},
+	{
+		"title" : "Bastard Out of Carolina (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Jackie Chan's First Strike (1996)",
+		"year" : 1997,
+		"genre" : ["Action"]
+	},
+	{
+		"title" : "Beverly Hills Ninja (1997)",
+		"year" : 1997,
+		"genre" : ["Action","Comedy"]
+	},
+	{
+		"title" : "Free Willy 3: The Rescue (1997)",
+		"year" : 1997,
+		"genre" : ["Adventure","Children","Drama"]
+	},
+	{
+		"title" : "Nixon (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Cry, the Beloved Country (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Crossing Guard, The (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Smoke (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Like Water For Chocolate (Como agua para chocolate) (1992)",
+		"year" : 1992,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Secret of Roan Inish, The (1994)",
+		"year" : 1994,
+		"genre" : ["Adventure"]
+	},
+	{
+		"title" : "Vanya on 42nd Street (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Jungle Book, The (1994)",
+		"year" : 1994,
+		"genre" : ["Adventure","Children","Romance"]
+	},
+	{
+		"title" : "Red Rock West (1992)",
+		"year" : 1992,
+		"genre" : ["Thriller"]
+	},
+	{
+		"title" : "Bronx Tale, A (1993)",
+		"year" : 1993,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Rudy (1993)",
+		"year" : 1993,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Short Cuts (1993)",
+		"year" : 1993,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Tombstone (1993)",
+		"year" : 1993,
+		"genre" : ["Western"]
+	},
+	{
+		"title" : "Courage Under Fire (1996)",
+		"year" : 1996,
+		"genre" : ["Drama","War"]
+	},
+	{
+		"title" : "Dragonheart (1996)",
+		"year" : 1996,
+		"genre" : ["Action","Adventure","Fantasy"]
+	},
+	{
+		"title" : "James and the Giant Peach (1996)",
+		"year" : 1996,
+		"genre" : ["Animation","Children","Musical"]
+	},
+	{
+		"title" : "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963)",
+		"year" : 1963,
+		"genre" : ["Sci-Fi","War"]
+	},
+	{
+		"title" : "Trainspotting (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "First Wives Club, The (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Matilda (1996)",
+		"year" : 1996,
+		"genre" : ["Children","Comedy"]
+	},
+	{
+		"title" : "Philadelphia Story, The (1940)",
+		"year" : 1940,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Vertigo (1958)",
+		"year" : 1958,
+		"genre" : ["Mystery","Thriller"]
+	},
+	{
+		"title" : "North by Northwest (1959)",
+		"year" : 1959,
+		"genre" : ["Comedy","Thriller"]
+	},
+	{
+		"title" : "Apartment, The (1960)",
+		"year" : 1960,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Some Like It Hot (1959)",
+		"year" : 1959,
+		"genre" : ["Comedy","Crime"]
+	},
+	{
+		"title" : "Casablanca (1942)",
+		"year" : 1942,
+		"genre" : ["Drama","Romance","War"]
+	},
+	{
+		"title" : "Maltese Falcon, The (1941)",
+		"year" : 1941,
+		"genre" : ["Film-Noir","Mystery"]
+	},
+	{
+		"title" : "My Fair Lady (1964)",
+		"year" : 1964,
+		"genre" : ["Musical","Romance"]
+	},
+	{
+		"title" : "Sabrina (1954)",
+		"year" : 1954,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Roman Holiday (1953)",
+		"year" : 1953,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Sunset Blvd. (1950)",
+		"year" : 1950,
+		"genre" : ["Film-Noir"]
+	},
+	{
+		"title" : "Notorious (1946)",
+		"year" : 1946,
+		"genre" : ["Film-Noir","Romance","Thriller"]
+	},
+	{
+		"title" : "To Catch a Thief (1955)",
+		"year" : 1955,
+		"genre" : ["Comedy","Romance","Thriller"]
+	},
+	{
+		"title" : "Adventures of Robin Hood, The (1938)",
+		"year" : 1938,
+		"genre" : ["Action","Adventure"]
+	},
+	{
+		"title" : "East of Eden (1955)",
+		"year" : 1955,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Thin Man, The (1934)",
+		"year" : 1934,
+		"genre" : ["Mystery"]
+	},
+	{
+		"title" : "His Girl Friday (1940)",
+		"year" : 1940,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Around the World in 80 Days (1956)",
+		"year" : 1956,
+		"genre" : ["Adventure","Comedy"]
+	},
+	{
+		"title" : "It's a Wonderful Life (1946)",
+		"year" : 1946,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Bringing Up Baby (1938)",
+		"year" : 1938,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "African Queen, The (1951)",
+		"year" : 1951,
+		"genre" : ["Action","Adventure","Romance","War"]
+	},
+	{
+		"title" : "Cat on a Hot Tin Roof (1958)",
+		"year" : 1958,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Fly Away Home (1996)",
+		"year" : 1996,
+		"genre" : ["Adventure","Children"]
+	},
+	{
+		"title" : "Dumbo (1941)",
+		"year" : 1941,
+		"genre" : ["Animation","Children","Musical"]
+	},
+	{
+		"title" : "Bananas (1971)",
+		"year" : 1971,
+		"genre" : ["Comedy","War"]
+	},
+	{
+		"title" : "Candidate, The (1972)",
+		"year" : 1972,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Bonnie and Clyde (1967)",
+		"year" : 1967,
+		"genre" : ["Crime","Drama"]
+	},
+	{
+		"title" : "Dial M for Murder (1954)",
+		"year" : 1954,
+		"genre" : ["Mystery","Thriller"]
+	},
+	{
+		"title" : "Rebel Without a Cause (1955)",
+		"year" : 1955,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Streetcar Named Desire, A (1951)",
+		"year" : 1951,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "People vs. Larry Flynt, The (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "My Left Foot (1989)",
+		"year" : 1989,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Magnificent Seven, The (1954)",
+		"year" : 1954,
+		"genre" : ["Action","Drama","Western"]
+	},
+	{
+		"title" : "Lawrence of Arabia (1962)",
+		"year" : 1962,
+		"genre" : ["Adventure","War"]
+	},
+	{
+		"title" : "Wings of Desire (1987)",
+		"year" : 1987,
+		"genre" : ["Comedy","Drama","Romance"]
+	},
+	{
+		"title" : "Third Man, The (1949)",
+		"year" : 1949,
+		"genre" : ["Mystery","Thriller"]
+	},
+	{
+		"title" : "Annie Hall (1977)",
+		"year" : 1977,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Boot, Das (1981)",
+		"year" : 1997,
+		"genre" : ["Action","Drama","War"]
+	},
+	{
+		"title" : "Local Hero (1983)",
+		"year" : 1983,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Manhattan (1979)",
+		"year" : 1979,
+		"genre" : ["Comedy","Drama","Romance"]
+	},
+	{
+		"title" : "Miller's Crossing (1990)",
+		"year" : 1990,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Treasure of the Sierra Madre, The (1948)",
+		"year" : 1948,
+		"genre" : ["Adventure"]
+	},
+	{
+		"title" : "Great Escape, The (1963)",
+		"year" : 1963,
+		"genre" : ["Adventure","War"]
+	},
+	{
+		"title" : "Deer Hunter, The (1978)",
+		"year" : 1978,
+		"genre" : ["Drama","War"]
+	},
+	{
+		"title" : "Down by Law (1986)",
+		"year" : 1986,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Cool Hand Luke (1967)",
+		"year" : 1967,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Great Dictator, The (1940)",
+		"year" : 1940,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Big Sleep, The (1946)",
+		"year" : 1946,
+		"genre" : ["Film-Noir","Mystery"]
+	},
+	{
+		"title" : "Ben-Hur (1959)",
+		"year" : 1959,
+		"genre" : ["Action","Adventure","Drama"]
+	},
+	{
+		"title" : "Gandhi (1982)",
+		"year" : 1982,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Killing Fields, The (1984)",
+		"year" : 1984,
+		"genre" : ["Drama","War"]
+	},
+	{
+		"title" : "My Life as a Dog (Mitt liv som hund) (1985)",
+		"year" : 1985,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Man Who Would Be King, The (1975)",
+		"year" : 1975,
+		"genre" : ["Adventure"]
+	},
+	{
+		"title" : "Shine (1996)",
+		"year" : 1996,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Kama Sutra: A Tale of Love (1996)",
+		"year" : 1997,
+		"genre" : ["Romance"]
+	},
+	{
+		"title" : "Daytrippers, The (1996)",
+		"year" : 1997,
+		"genre" : ["Mystery"]
+	},
+	{
+		"title" : "Traveller (1997)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Addicted to Love (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Ponette (1996)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "My Own Private Idaho (1991)",
+		"year" : 1991,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Anastasia (1997)",
+		"year" : 1997,
+		"genre" : ["Animation","Children","Musical"]
+	},
+	{
+		"title" : "Mouse Hunt (1997)",
+		"year" : 1997,
+		"genre" : ["Children","Comedy"]
+	},
+	{
+		"title" : "Money Train (1995)",
+		"year" : 1995,
+		"genre" : ["Action"]
+	},
+	{
+		"title" : "Mortal Kombat (1995)",
+		"year" : 1995,
+		"genre" : ["Action","Adventure"]
+	},
+	{
+		"title" : "Pocahontas (1995)",
+		"year" : 1995,
+		"genre" : ["Animation","Children","Musical","Romance"]
+	},
+	{
+		"title" : "Misérables, Les (1995)",
+		"year" : 1995,
+		"genre" : ["Drama","Musical"]
+	},
+	{
+		"title" : "Things to Do in Denver when You're Dead (1995)",
+		"year" : 1996,
+		"genre" : ["Crime","Drama","Romance"]
+	},
+	{
+		"title" : "Vampire in Brooklyn (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Broken Arrow (1996)",
+		"year" : 1996,
+		"genre" : ["Action","Thriller"]
+	},
+	{
+		"title" : "Young Poisoner's Handbook, The (1995)",
+		"year" : 1996,
+		"genre" : ["Crime"]
+	},
+	{
+		"title" : "NeverEnding Story III, The (1994)",
+		"year" : 1996,
+		"genre" : ["Children","Fantasy"]
+	},
+	{
+		"title" : "Rob Roy (1995)",
+		"year" : 1995,
+		"genre" : ["Drama","Romance","War"]
+	},
+	{
+		"title" : "Die Hard: With a Vengeance (1995)",
+		"year" : 1995,
+		"genre" : ["Action","Thriller"]
+	},
+	{
+		"title" : "Lord of Illusions (1995)",
+		"year" : 1995,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Species (1995)",
+		"year" : 1995,
+		"genre" : ["Sci-Fi"]
+	},
+	{
+		"title" : "Walk in the Clouds, A (1995)",
+		"year" : 1995,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Waterworld (1995)",
+		"year" : 1995,
+		"genre" : ["Action","Adventure"]
+	},
+	{
+		"title" : "White Man's Burden (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Wild Bill (1995)",
+		"year" : 1995,
+		"genre" : ["Western"]
+	},
+	{
+		"title" : "Farinelli: il castrato (1994)",
+		"year" : 1994,
+		"genre" : ["Drama","Musical"]
+	},
+	{
+		"title" : "Heavenly Creatures (1994)",
+		"year" : 1994,
+		"genre" : ["Drama","Fantasy","Thriller"]
+	},
+	{
+		"title" : "Interview with the Vampire (1994)",
+		"year" : 1994,
+		"genre" : ["Drama","Horror"]
+	},
+	{
+		"title" : "Kid in King Arthur's Court, A (1995)",
+		"year" : 1995,
+		"genre" : ["Adventure","Children","Comedy","Fantasy","Romance","Sci-Fi"]
+	},
+	{
+		"title" : "Mary Shelley's Frankenstein (1994)",
+		"year" : 1994,
+		"genre" : ["Drama","Horror"]
+	},
+	{
+		"title" : "Quick and the Dead, The (1995)",
+		"year" : 1995,
+		"genre" : ["Action","Adventure","Western"]
+	},
+	{
+		"title" : "Stephen King's The Langoliers (1995)",
+		"year" : 1995,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Tales from the Hood (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy","Horror"]
+	},
+	{
+		"title" : "Village of the Damned (1995)",
+		"year" : 1995,
+		"genre" : ["Horror","Thriller"]
+	},
+	{
+		"title" : "Clear and Present Danger (1994)",
+		"year" : 1994,
+		"genre" : ["Action","Adventure","Thriller"]
+	},
+	{
+		"title" : "Wes Craven's New Nightmare (1994)",
+		"year" : 1994,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Speed (1994)",
+		"year" : 1994,
+		"genre" : ["Action","Romance","Thriller"]
+	},
+	{
+		"title" : "Wolf (1994)",
+		"year" : 1994,
+		"genre" : ["Drama","Horror"]
+	},
+	{
+		"title" : "Wyatt Earp (1994)",
+		"year" : 1994,
+		"genre" : ["Western"]
+	},
+	{
+		"title" : "Another Stakeout (1993)",
+		"year" : 1993,
+		"genre" : ["Comedy","Thriller"]
+	},
+	{
+		"title" : "Blown Away (1994)",
+		"year" : 1994,
+		"genre" : ["Action","Thriller"]
+	},
+	{
+		"title" : "Body Snatchers (1993)",
+		"year" : 1993,
+		"genre" : ["Horror","Sci-Fi","Thriller"]
+	},
+	{
+		"title" : "Boxing Helena (1993)",
+		"year" : 1993,
+		"genre" : ["Mystery","Romance","Thriller"]
+	},
+	{
+		"title" : "City Slickers II: The Legend of Curly's Gold (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","Western"]
+	},
+	{
+		"title" : "Cliffhanger (1993)",
+		"year" : 1993,
+		"genre" : ["Action","Adventure","Crime"]
+	},
+	{
+		"title" : "Coneheads (1993)",
+		"year" : 1993,
+		"genre" : ["Comedy","Sci-Fi"]
+	},
+	{
+		"title" : "Demolition Man (1993)",
+		"year" : 1993,
+		"genre" : ["Action","Sci-Fi"]
+	},
+	{
+		"title" : "Fatal Instinct (1993)",
+		"year" : 1993,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Englishman Who Went Up a Hill, But Came Down a Mountain, The (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Kalifornia (1993)",
+		"year" : 1993,
+		"genre" : ["Drama","Thriller"]
+	},
+	{
+		"title" : "Piano, The (1993)",
+		"year" : 1993,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Romeo Is Bleeding (1993)",
+		"year" : 1993,
+		"genre" : ["Crime","Thriller"]
+	},
+	{
+		"title" : "Secret Garden, The (1993)",
+		"year" : 1993,
+		"genre" : ["Children","Drama"]
+	},
+	{
+		"title" : "Son in Law (1993)",
+		"year" : 1993,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Terminal Velocity (1994)",
+		"year" : 1994,
+		"genre" : ["Action"]
+	},
+	{
+		"title" : "Hour of the Pig, The (1993)",
+		"year" : 1993,
+		"genre" : ["Drama","Mystery"]
+	},
+	{
+		"title" : "Beauty and the Beast (1991)",
+		"year" : 1991,
+		"genre" : ["Animation","Children","Musical"]
+	},
+	{
+		"title" : "Wild Bunch, The (1969)",
+		"year" : 1969,
+		"genre" : ["Western"]
+	},
+	{
+		"title" : "Hellraiser: Bloodline (1996)",
+		"year" : 1996,
+		"genre" : ["Action","Horror","Sci-Fi"]
+	},
+	{
+		"title" : "Primal Fear (1996)",
+		"year" : 1996,
+		"genre" : ["Drama","Thriller"]
+	},
+	{
+		"title" : "True Crime (1995)",
+		"year" : 1995,
+		"genre" : ["Mystery","Thriller"]
+	},
+	{
+		"title" : "Stalingrad (1993)",
+		"year" : 1993,
+		"genre" : ["War"]
+	},
+	{
+		"title" : "Heavy (1995)",
+		"year" : 1996,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Fan, The (1996)",
+		"year" : 1996,
+		"genre" : ["Thriller"]
+	},
+	{
+		"title" : "Hunchback of Notre Dame, The (1996)",
+		"year" : 1996,
+		"genre" : ["Animation","Children","Musical"]
+	},
+	{
+		"title" : "Eraser (1996)",
+		"year" : 1996,
+		"genre" : ["Action","Thriller"]
+	},
+	{
+		"title" : "Big Squeeze, The (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Police Story 4: Project S (Chao ji ji hua) (1993)",
+		"year" : 1996,
+		"genre" : ["Action"]
+	},
+	{
+		"title" : "Daniel Defoe's Robinson Crusoe (1996)",
+		"year" : 1996,
+		"genre" : ["Children"]
+	},
+	{
+		"title" : "For Whom the Bell Tolls (1943)",
+		"year" : 1943,
+		"genre" : ["Adventure","War"]
+	},
+	{
+		"title" : "American in Paris, An (1951)",
+		"year" : 1951,
+		"genre" : ["Musical","Romance"]
+	},
+	{
+		"title" : "Rear Window (1954)",
+		"year" : 1954,
+		"genre" : ["Mystery","Thriller"]
+	},
+	{
+		"title" : "It Happened One Night (1934)",
+		"year" : 1934,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Meet Me in St. Louis (1944)",
+		"year" : 1944,
+		"genre" : ["Musical"]
+	},
+	{
+		"title" : "All About Eve (1950)",
+		"year" : 1950,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Rebecca (1940)",
+		"year" : 1940,
+		"genre" : ["Romance","Thriller"]
+	},
+	{
+		"title" : "Spellbound (1945)",
+		"year" : 1945,
+		"genre" : ["Mystery","Romance","Thriller"]
+	},
+	{
+		"title" : "Father of the Bride (1950)",
+		"year" : 1950,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Gigi (1958)",
+		"year" : 1958,
+		"genre" : ["Musical"]
+	},
+	{
+		"title" : "Laura (1944)",
+		"year" : 1944,
+		"genre" : ["Crime","Film-Noir","Mystery"]
+	},
+	{
+		"title" : "Lost Horizon (1937)",
+		"year" : 1937,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "My Man Godfrey (1936)",
+		"year" : 1936,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Giant (1956)",
+		"year" : 1956,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "39 Steps, The (1935)",
+		"year" : 1935,
+		"genre" : ["Thriller"]
+	},
+	{
+		"title" : "Night of the Living Dead (1968)",
+		"year" : 1968,
+		"genre" : ["Horror","Sci-Fi"]
+	},
+	{
+		"title" : "Blue Angel, The (Blaue Engel, Der) (1930)",
+		"year" : 1930,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Picnic (1955)",
+		"year" : 1955,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Extreme Measures (1996)",
+		"year" : 1996,
+		"genre" : ["Drama","Thriller"]
+	},
+	{
+		"title" : "Chamber, The (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Davy Crockett, King of the Wild Frontier (1955)",
+		"year" : 1955,
+		"genre" : ["Western"]
+	},
+	{
+		"title" : "Swiss Family Robinson (1960)",
+		"year" : 1960,
+		"genre" : ["Adventure","Children"]
+	},
+	{
+		"title" : "Angels in the Outfield (1994)",
+		"year" : 1994,
+		"genre" : ["Children","Comedy"]
+	},
+	{
+		"title" : "Three Caballeros, The (1945)",
+		"year" : 1945,
+		"genre" : ["Animation","Children","Musical"]
+	},
+	{
+		"title" : "Sword in the Stone, The (1963)",
+		"year" : 1963,
+		"genre" : ["Animation","Children"]
+	},
+	{
+		"title" : "So Dear to My Heart (1949)",
+		"year" : 1949,
+		"genre" : ["Children","Drama"]
+	},
+	{
+		"title" : "Robin Hood: Prince of Thieves (1991)",
+		"year" : 1991,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Sleepers (1996)",
+		"year" : 1996,
+		"genre" : ["Crime","Drama"]
+	},
+	{
+		"title" : "Victor/Victoria (1982)",
+		"year" : 1982,
+		"genre" : ["Comedy","Musical"]
+	},
+	{
+		"title" : "Great Race, The (1965)",
+		"year" : 1965,
+		"genre" : ["Comedy","Musical"]
+	},
+	{
+		"title" : "Crying Game, The (1992)",
+		"year" : 1992,
+		"genre" : ["Action","Drama","Romance","War"]
+	},
+	{
+		"title" : "Sophie's Choice (1982)",
+		"year" : 1982,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Christmas Carol, A (1938)",
+		"year" : 1938,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Microcosmos: Le peuple de l'herbe (1996)",
+		"year" : 1996,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "Fog, The (1980)",
+		"year" : 1980,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Escape from New York (1981)",
+		"year" : 1981,
+		"genre" : ["Action","Adventure","Sci-Fi","Thriller"]
+	},
+	{
+		"title" : "Howling, The (1981)",
+		"year" : 1981,
+		"genre" : ["Comedy","Horror"]
+	},
+	{
+		"title" : "Return of Martin Guerre, The (Retour de Martin Guerre, Le) (1982)",
+		"year" : 1982,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Tin Drum, The (Blechtrommel, Die) (1979)",
+		"year" : 1979,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Cook the Thief His Wife & Her Lover, The (1989)",
+		"year" : 1989,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Paths of Glory (1957)",
+		"year" : 1957,
+		"genre" : ["Drama","War"]
+	},
+	{
+		"title" : "Grifters, The (1990)",
+		"year" : 1990,
+		"genre" : ["Crime","Drama","Film-Noir"]
+	},
+	{
+		"title" : "The Innocent (1994)",
+		"year" : 1994,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Thin Blue Line, The (1988)",
+		"year" : 1988,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "Paris Is Burning (1990)",
+		"year" : 1990,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "Once Upon a Time in the West (1969)",
+		"year" : 1969,
+		"genre" : ["Western"]
+	},
+	{
+		"title" : "Ran (1985)",
+		"year" : 1985,
+		"genre" : ["Drama","War"]
+	},
+	{
+		"title" : "Quiet Man, The (1952)",
+		"year" : 1952,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Once Upon a Time in America (1984)",
+		"year" : 1984,
+		"genre" : ["Crime","Drama","Thriller"]
+	},
+	{
+		"title" : "Seventh Seal, The (Sjunde inseglet, Det) (1957)",
+		"year" : 1957,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Glory (1989)",
+		"year" : 1989,
+		"genre" : ["Action","Drama","War"]
+	},
+	{
+		"title" : "Rosencrantz and Guildenstern Are Dead (1990)",
+		"year" : 1990,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Touch of Evil (1958)",
+		"year" : 1958,
+		"genre" : ["Crime","Film-Noir","Thriller"]
+	},
+	{
+		"title" : "Chinatown (1974)",
+		"year" : 1974,
+		"genre" : ["Film-Noir","Mystery","Thriller"]
+	},
+	{
+		"title" : "Stand by Me (1986)",
+		"year" : 1986,
+		"genre" : ["Adventure","Comedy","Drama"]
+	},
+	{
+		"title" : "M (1931)",
+		"year" : 1931,
+		"genre" : ["Crime","Film-Noir","Thriller"]
+	},
+	{
+		"title" : "Manchurian Candidate, The (1962)",
+		"year" : 1962,
+		"genre" : ["Film-Noir","Thriller"]
+	},
+	{
+		"title" : "Pump Up the Volume (1990)",
+		"year" : 1990,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Arsenic and Old Lace (1944)",
+		"year" : 1944,
+		"genre" : ["Comedy","Mystery","Thriller"]
+	},
+	{
+		"title" : "Fried Green Tomatoes (1991)",
+		"year" : 1991,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "High Noon (1952)",
+		"year" : 1952,
+		"genre" : ["Western"]
+	},
+	{
+		"title" : "Somewhere in Time (1980)",
+		"year" : 1980,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Being There (1979)",
+		"year" : 1979,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Paris, Texas (1984)",
+		"year" : 1984,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Alien 3 (1992)",
+		"year" : 1992,
+		"genre" : ["Action","Horror","Sci-Fi","Thriller"]
+	},
+	{
+		"title" : "Blood For Dracula (Andy Warhol's Dracula) (1974)",
+		"year" : 1974,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Audrey Rose (1977)",
+		"year" : 1977,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Blood Beach (1981)",
+		"year" : 1981,
+		"genre" : ["Action","Horror"]
+	},
+	{
+		"title" : "Body Parts (1991)",
+		"year" : 1991,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Body Snatchers (1993)",
+		"year" : 1993,
+		"genre" : ["Horror","Sci-Fi","Thriller"]
+	},
+	{
+		"title" : "Bride of Frankenstein (1935)",
+		"year" : 1935,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Candyman (1992)",
+		"year" : 1992,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Cape Fear (1962)",
+		"year" : 1962,
+		"genre" : ["Film-Noir","Thriller"]
+	},
+	{
+		"title" : "Cat People (1982)",
+		"year" : 1982,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922)",
+		"year" : 1922,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Crucible, The (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Fire on the Mountain (1996)",
+		"year" : 1997,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "Volcano (1997)",
+		"year" : 1997,
+		"genre" : ["Drama","Thriller"]
+	},
+	{
+		"title" : "Conan the Barbarian (1981)",
+		"year" : 1981,
+		"genre" : ["Action","Adventure"]
+	},
+	{
+		"title" : "Kull the Conqueror (1997)",
+		"year" : 1997,
+		"genre" : ["Action","Adventure"]
+	},
+	{
+		"title" : "Wishmaster (1997)",
+		"year" : 1997,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "I Know What You Did Last Summer (1997)",
+		"year" : 1997,
+		"genre" : ["Horror","Mystery","Thriller"]
+	},
+	{
+		"title" : "Rocket Man (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "In the Line of Fire (1993)",
+		"year" : 1993,
+		"genre" : ["Action","Thriller"]
+	},
+	{
+		"title" : "Executive Decision (1996)",
+		"year" : 1996,
+		"genre" : ["Action","Thriller"]
+	},
+	{
+		"title" : "Perfect World, A (1993)",
+		"year" : 1993,
+		"genre" : ["Action","Drama"]
+	},
+	{
+		"title" : "McHale's Navy (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy","War"]
+	},
+	{
+		"title" : "Leave It to Beaver (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Jackal, The (1997)",
+		"year" : 1997,
+		"genre" : ["Action","Thriller"]
+	},
+	{
+		"title" : "Seven Years in Tibet (1997)",
+		"year" : 1997,
+		"genre" : ["Drama","War"]
+	},
+	{
+		"title" : "Dark City (1998)",
+		"year" : 1998,
+		"genre" : ["Film-Noir","Sci-Fi","Thriller"]
+	},
+	{
+		"title" : "American President, The (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy","Drama","Romance"]
+	},
+	{
+		"title" : "Casino (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Persuasion (1995)",
+		"year" : 1995,
+		"genre" : ["Romance"]
+	},
+	{
+		"title" : "Kicking and Screaming (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "City Hall (1996)",
+		"year" : 1996,
+		"genre" : ["Drama","Thriller"]
+	},
+	{
+		"title" : "Basketball Diaries, The (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Browning Version, The (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Little Women (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Miami Rhapsody (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Wonderful, Horrible Life of Leni Riefenstahl, The (1993)",
+		"year" : 1993,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "Barcelona (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Widows' Peak (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "House of the Spirits, The (1993)",
+		"year" : 1993,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Singin' in the Rain (1952)",
+		"year" : 1952,
+		"genre" : ["Musical","Romance"]
+	},
+	{
+		"title" : "Bad Moon (1996)",
+		"year" : 1996,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Enchanted April (1991)",
+		"year" : 1991,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Sex, Lies, and Videotape (1989)",
+		"year" : 1989,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Strictly Ballroom (1992)",
+		"year" : 1992,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Better Off Dead... (1985)",
+		"year" : 1985,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Substance of Fire, The (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Tin Men (1987)",
+		"year" : 1987,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Othello (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Carrington (1995)",
+		"year" : 1995,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "To Die For (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Home for the Holidays (1995)",
+		"year" : 1995,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Juror, The (1996)",
+		"year" : 1996,
+		"genre" : ["Drama","Thriller"]
+	},
+	{
+		"title" : "In the Bleak Midwinter (1995)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Canadian Bacon (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","War"]
+	},
+	{
+		"title" : "First Knight (1995)",
+		"year" : 1995,
+		"genre" : ["Action","Adventure","Drama","Romance"]
+	},
+	{
+		"title" : "Mallrats (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Nine Months (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Boys on the Side (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Circle of Friends (1995)",
+		"year" : 1995,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Exit to Eden (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Fluke (1995)",
+		"year" : 1995,
+		"genre" : ["Children","Drama"]
+	},
+	{
+		"title" : "Immortal Beloved (1994)",
+		"year" : 1994,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Junior (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","Sci-Fi"]
+	},
+	{
+		"title" : "Nell (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Queen Margot (Reine Margot, La) (1994)",
+		"year" : 1996,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Corrina, Corrina (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","Drama","Romance"]
+	},
+	{
+		"title" : "Dave (1993)",
+		"year" : 1993,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Go Fish (1994)",
+		"year" : 1994,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Made in America (1993)",
+		"year" : 1993,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Philadelphia (1993)",
+		"year" : 1993,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Shadowlands (1993)",
+		"year" : 1993,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Sirens (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Threesome (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Pretty Woman (1990)",
+		"year" : 1990,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Jane Eyre (1996)",
+		"year" : 1996,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Last Supper, The (1995)",
+		"year" : 1996,
+		"genre" : ["Drama","Thriller"]
+	},
+	{
+		"title" : "Ransom (1996)",
+		"year" : 1996,
+		"genre" : ["Drama","Thriller"]
+	},
+	{
+		"title" : "Crow: City of Angels, The (1996)",
+		"year" : 1996,
+		"genre" : ["Action","Thriller"]
+	},
+	{
+		"title" : "Michael Collins (1996)",
+		"year" : 1996,
+		"genre" : ["Drama","War"]
+	},
+	{
+		"title" : "Ruling Class, The (1972)",
+		"year" : 1972,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Real Genius (1985)",
+		"year" : 1985,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Benny & Joon (1993)",
+		"year" : 1993,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Saint, The (1997)",
+		"year" : 1997,
+		"genre" : ["Action","Romance","Thriller"]
+	},
+	{
+		"title" : "MatchMaker, The (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Amistad (1997)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Tomorrow Never Dies (1997)",
+		"year" : 1997,
+		"genre" : ["Action","Romance","Thriller"]
+	},
+	{
+		"title" : "Replacement Killers, The (1998)",
+		"year" : 1998,
+		"genre" : ["Action","Thriller"]
+	},
+	{
+		"title" : "Burnt By the Sun (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Red Corner (1997)",
+		"year" : 1997,
+		"genre" : ["Crime","Thriller"]
+	},
+	{
+		"title" : "Jumanji (1995)",
+		"year" : 1995,
+		"genre" : ["Action","Adventure","Children","Fantasy","Sci-Fi"]
+	},
+	{
+		"title" : "Father of the Bride Part II (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Across the Sea of Time (1995)",
+		"year" : 1995,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "Lawnmower Man 2: Beyond Cyberspace (1996)",
+		"year" : 1996,
+		"genre" : ["Sci-Fi","Thriller"]
+	},
+	{
+		"title" : "Fair Game (1995)",
+		"year" : 1995,
+		"genre" : ["Action"]
+	},
+	{
+		"title" : "Screamers (1995)",
+		"year" : 1995,
+		"genre" : ["Sci-Fi"]
+	},
+	{
+		"title" : "Nick of Time (1995)",
+		"year" : 1995,
+		"genre" : ["Action","Thriller"]
+	},
+	{
+		"title" : "Beautiful Girls (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Happy Gilmore (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "If Lucy Fell (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Boomerang (1992)",
+		"year" : 1992,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Man of the Year (1995)",
+		"year" : 1996,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "Addiction, The (1995)",
+		"year" : 1995,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Casper (1995)",
+		"year" : 1995,
+		"genre" : ["Adventure","Children"]
+	},
+	{
+		"title" : "Congo (1995)",
+		"year" : 1995,
+		"genre" : ["Action","Adventure","Mystery","Sci-Fi"]
+	},
+	{
+		"title" : "Devil in a Blue Dress (1995)",
+		"year" : 1995,
+		"genre" : ["Crime","Film-Noir","Mystery","Thriller"]
+	},
+	{
+		"title" : "Johnny Mnemonic (1995)",
+		"year" : 1995,
+		"genre" : ["Action","Sci-Fi","Thriller"]
+	},
+	{
+		"title" : "Kids (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Mute Witness (1994)",
+		"year" : 1994,
+		"genre" : ["Thriller"]
+	},
+	{
+		"title" : "Prophecy, The (1995)",
+		"year" : 1995,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Something to Talk About (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy","Drama","Romance"]
+	},
+	{
+		"title" : "Three Wishes (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Castle Freak (1995)",
+		"year" : 1995,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Don Juan DeMarco (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy","Drama","Romance"]
+	},
+	{
+		"title" : "Drop Zone (1994)",
+		"year" : 1994,
+		"genre" : ["Action"]
+	},
+	{
+		"title" : "Dumb & Dumber (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "French Kiss (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Little Odessa (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Milk Money (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Beyond Bedlam (1993)",
+		"year" : 1993,
+		"genre" : ["Drama","Horror"]
+	},
+	{
+		"title" : "Only You (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Perez Family, The (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Roommates (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Relative Fear (1994)",
+		"year" : 1994,
+		"genre" : ["Horror","Thriller"]
+	},
+	{
+		"title" : "Swimming with Sharks (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Tommy Boy (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Baby-Sitters Club, The (1995)",
+		"year" : 1995,
+		"genre" : ["Children"]
+	},
+	{
+		"title" : "Bullets Over Broadway (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Crooklyn (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "It Could Happen to You (1994)",
+		"year" : 1994,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Richie Rich (1994)",
+		"year" : 1994,
+		"genre" : ["Children","Comedy"]
+	},
+	{
+		"title" : "Speechless (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Timecop (1994)",
+		"year" : 1994,
+		"genre" : ["Action","Sci-Fi"]
+	},
+	{
+		"title" : "Bad Company (1995)",
+		"year" : 1995,
+		"genre" : ["Action"]
+	},
+	{
+		"title" : "Boys Life (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "In the Mouth of Madness (1995)",
+		"year" : 1995,
+		"genre" : ["Horror","Thriller"]
+	},
+	{
+		"title" : "Air Up There, The (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Hard Target (1993)",
+		"year" : 1993,
+		"genre" : ["Action","Adventure","Crime","Thriller"]
+	},
+	{
+		"title" : "Heaven & Earth (1993)",
+		"year" : 1993,
+		"genre" : ["Action","Drama","War"]
+	},
+	{
+		"title" : "Jimmy Hollywood (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Manhattan Murder Mystery (1993)",
+		"year" : 1993,
+		"genre" : ["Comedy","Mystery"]
+	},
+	{
+		"title" : "Menace II Society (1993)",
+		"year" : 1993,
+		"genre" : ["Action","Crime","Drama"]
+	},
+	{
+		"title" : "Poetic Justice (1993)",
+		"year" : 1993,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Program, The (1993)",
+		"year" : 1993,
+		"genre" : ["Action","Drama"]
+	},
+	{
+		"title" : "Rising Sun (1993)",
+		"year" : 1993,
+		"genre" : ["Action","Drama","Mystery"]
+	},
+	{
+		"title" : "Shadow, The (1994)",
+		"year" : 1994,
+		"genre" : ["Action"]
+	},
+	{
+		"title" : "Thirty-Two Short Films About Glenn Gould (1993)",
+		"year" : 1993,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "Andre (1994)",
+		"year" : 1994,
+		"genre" : ["Adventure","Children"]
+	},
+	{
+		"title" : "Celluloid Closet, The (1995)",
+		"year" : 1996,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "Great Day in Harlem, A (1994)",
+		"year" : 1994,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "One Fine Day (1996)",
+		"year" : 1996,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Candyman: Farewell to the Flesh (1995)",
+		"year" : 1995,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Frisk (1995)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Girl 6 (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Eddie (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Space Jam (1996)",
+		"year" : 1996,
+		"genre" : ["Adventure","Animation","Children","Comedy","Fantasy"]
+	},
+	{
+		"title" : "Mrs. Winterbourne (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Faces (1968)",
+		"year" : 1968,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Mulholland Falls (1996)",
+		"year" : 1996,
+		"genre" : ["Crime","Film-Noir","Thriller"]
+	},
+	{
+		"title" : "Great White Hype, The (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Arrival, The (1996)",
+		"year" : 1996,
+		"genre" : ["Action","Sci-Fi","Thriller"]
+	},
+	{
+		"title" : "Phantom, The (1996)",
+		"year" : 1996,
+		"genre" : ["Adventure"]
+	},
+	{
+		"title" : "Daylight (1996)",
+		"year" : 1996,
+		"genre" : ["Action","Adventure","Thriller"]
+	},
+	{
+		"title" : "Alaska (1996)",
+		"year" : 1996,
+		"genre" : ["Adventure","Children"]
+	},
+	{
+		"title" : "Fled (1996)",
+		"year" : 1996,
+		"genre" : ["Action","Adventure"]
+	},
+	{
+		"title" : "Power 98 (1995)",
+		"year" : 1996,
+		"genre" : ["Action","Mystery","Thriller"]
+	},
+	{
+		"title" : "Escape from L.A. (1996)",
+		"year" : 1996,
+		"genre" : ["Action","Adventure","Sci-Fi","Thriller"]
+	},
+	{
+		"title" : "Bogus (1996)",
+		"year" : 1996,
+		"genre" : ["Children","Drama","Fantasy"]
+	},
+	{
+		"title" : "Bulletproof (1996)",
+		"year" : 1996,
+		"genre" : ["Action"]
+	},
+	{
+		"title" : "Halloween: The Curse of Michael Myers (1995)",
+		"year" : 1995,
+		"genre" : ["Horror","Thriller"]
+	},
+	{
+		"title" : "Gay Divorcee, The (1934)",
+		"year" : 1934,
+		"genre" : ["Comedy","Musical","Romance"]
+	},
+	{
+		"title" : "Ninotchka (1939)",
+		"year" : 1939,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Meet John Doe (1941)",
+		"year" : 1941,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "In the Line of Duty 2 (1987)",
+		"year" : 1996,
+		"genre" : ["Action"]
+	},
+	{
+		"title" : "Loch Ness (1995)",
+		"year" : 1995,
+		"genre" : ["Horror","Thriller"]
+	},
+	{
+		"title" : "Last Man Standing (1996)",
+		"year" : 1996,
+		"genre" : ["Action","Drama","Western"]
+	},
+	{
+		"title" : "Glimmer Man, The (1996)",
+		"year" : 1996,
+		"genre" : ["Action","Thriller"]
+	},
+	{
+		"title" : "Pollyanna (1960)",
+		"year" : 1960,
+		"genre" : ["Children","Comedy","Drama"]
+	},
+	{
+		"title" : "Shaggy Dog, The (1959)",
+		"year" : 1959,
+		"genre" : ["Children","Comedy"]
+	},
+	{
+		"title" : "Freeway (1996)",
+		"year" : 1996,
+		"genre" : ["Crime"]
+	},
+	{
+		"title" : "That Thing You Do! (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "To Gillian on Her 37th Birthday (1996)",
+		"year" : 1996,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Looking for Richard (1996)",
+		"year" : 1996,
+		"genre" : ["Documentary","Drama"]
+	},
+	{
+		"title" : "Murder, My Sweet (1944)",
+		"year" : 1944,
+		"genre" : ["Film-Noir","Thriller"]
+	},
+	{
+		"title" : "Days of Thunder (1990)",
+		"year" : 1990,
+		"genre" : ["Action","Romance"]
+	},
+	{
+		"title" : "Perfect Candidate, A (1996)",
+		"year" : 1996,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "Two or Three Things I Know About Her (1966)",
+		"year" : 1966,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Bloody Child, The (1996)",
+		"year" : 1996,
+		"genre" : ["Drama","Thriller"]
+	},
+	{
+		"title" : "Braindead (1992)",
+		"year" : 1992,
+		"genre" : ["Comedy","Horror"]
+	},
+	{
+		"title" : "Bad Taste (1987)",
+		"year" : 1987,
+		"genre" : ["Comedy","Horror"]
+	},
+	{
+		"title" : "Diva (1981)",
+		"year" : 1981,
+		"genre" : ["Action","Drama","Mystery","Romance","Thriller"]
+	},
+	{
+		"title" : "Night on Earth (1991)",
+		"year" : 1991,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Paris Was a Woman (1995)",
+		"year" : 1996,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "Amityville: Dollhouse (1996)",
+		"year" : 1996,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "April Fool's Day (1986)",
+		"year" : 1986,
+		"genre" : ["Comedy","Horror"]
+	},
+	{
+		"title" : "Believers, The (1987)",
+		"year" : 1987,
+		"genre" : ["Horror","Thriller"]
+	},
+	{
+		"title" : "Nosferatu a Venezia (1986)",
+		"year" : 1986,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Jingle All the Way (1996)",
+		"year" : 1996,
+		"genre" : ["Adventure","Children","Comedy"]
+	},
+	{
+		"title" : "Garden of Finzi-Contini, The (Giardino dei Finzi-Contini, Il) (1970)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "My Fellow Americans (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Ice Storm, The (1997)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Michael (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Whole Wide World, The (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Hearts and Minds (1996)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Fools Rush In (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Touch (1997)",
+		"year" : 1997,
+		"genre" : ["Romance"]
+	},
+	{
+		"title" : "Vegas Vacation (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Love Jones (1997)",
+		"year" : 1997,
+		"genre" : ["Romance"]
+	},
+	{
+		"title" : "Picture Perfect (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Career Girls (1997)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "She's So Lovely (1997)",
+		"year" : 1997,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Money Talks (1997)",
+		"year" : 1997,
+		"genre" : ["Action","Comedy"]
+	},
+	{
+		"title" : "Excess Baggage (1997)",
+		"year" : 1997,
+		"genre" : ["Adventure","Romance"]
+	},
+	{
+		"title" : "That Darn Cat! (1997)",
+		"year" : 1997,
+		"genre" : ["Children","Comedy","Mystery"]
+	},
+	{
+		"title" : "Peacemaker, The (1997)",
+		"year" : 1997,
+		"genre" : ["Action","Thriller","War"]
+	},
+	{
+		"title" : "Soul Food (1997)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Money Talks (1997)",
+		"year" : 1997,
+		"genre" : ["Action","Comedy"]
+	},
+	{
+		"title" : "Washington Square (1997)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Telling Lies in America (1997)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Year of the Horse (1997)",
+		"year" : 1997,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "Phantoms (1998)",
+		"year" : 1998,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Life Less Ordinary, A (1997)",
+		"year" : 1997,
+		"genre" : ["Romance","Thriller"]
+	},
+	{
+		"title" : "Eve's Bayou (1997)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "One Night Stand (1997)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Tango Lesson, The (1997)",
+		"year" : 1997,
+		"genre" : ["Romance"]
+	},
+	{
+		"title" : "Mortal Kombat: Annihilation (1997)",
+		"year" : 1997,
+		"genre" : ["Action","Adventure"]
+	},
+	{
+		"title" : "Bent (1997)",
+		"year" : 1997,
+		"genre" : ["Drama","War"]
+	},
+	{
+		"title" : "Flubber (1997)",
+		"year" : 1997,
+		"genre" : ["Children","Comedy","Fantasy"]
+	},
+	{
+		"title" : "For Richer or Poorer (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Home Alone 3 (1997)",
+		"year" : 1997,
+		"genre" : ["Children","Comedy"]
+	},
+	{
+		"title" : "Scream 2 (1997)",
+		"year" : 1997,
+		"genre" : ["Horror","Thriller"]
+	},
+	{
+		"title" : "Sweet Hereafter, The (1997)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Time Tracers (1995)",
+		"year" : 1995,
+		"genre" : ["Action","Adventure","Sci-Fi"]
+	},
+	{
+		"title" : "Postman, The (1997)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Winter Guest, The (1997)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Kundun (1997)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Mr. Magoo (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Big Lebowski, The (1998)",
+		"year" : 1997,
+		"genre" : ["Comedy","Crime","Mystery","Thriller"]
+	},
+	{
+		"title" : "Afterglow (1997)",
+		"year" : 1997,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Ma vie en rose (My Life in Pink) (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Great Expectations (1998)",
+		"year" : 1998,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Oscar & Lucinda (1997)",
+		"year" : 1997,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Vermin (1998)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Half Baked (1998)",
+		"year" : 1998,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Dangerous Beauty (1998)",
+		"year" : 1998,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Nil By Mouth (1997)",
+		"year" : 1998,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Twilight (1998)",
+		"year" : 1998,
+		"genre" : ["Crime","Drama"]
+	},
+	{
+		"title" : "U.S. Marshalls (1998)",
+		"year" : 1998,
+		"genre" : ["Action","Thriller"]
+	},
+	{
+		"title" : "Love and Death on Long Island (1997)",
+		"year" : 1998,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Wild Things (1998)",
+		"year" : 1998,
+		"genre" : ["Crime","Drama","Mystery","Thriller"]
+	},
+	{
+		"title" : "Primary Colors (1998)",
+		"year" : 1998,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Lost in Space (1998)",
+		"year" : 1998,
+		"genre" : ["Action","Sci-Fi","Thriller"]
+	},
+	{
+		"title" : "Mercury Rising (1998)",
+		"year" : 1998,
+		"genre" : ["Action","Drama","Thriller"]
+	},
+	{
+		"title" : "City of Angels (1998)",
+		"year" : 1998,
+		"genre" : ["Romance"]
+	},
+	{
+		"title" : "City of Lost Children, The (1995)",
+		"year" : 1995,
+		"genre" : ["Adventure","Sci-Fi"]
+	},
+	{
+		"title" : "Two Bits (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Farewell My Concubine (1993)",
+		"year" : 1993,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Dead Man (1995)",
+		"year" : 1996,
+		"genre" : ["Western"]
+	},
+	{
+		"title" : "Raise the Red Lantern (1991)",
+		"year" : 1991,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "White Squall (1996)",
+		"year" : 1996,
+		"genre" : ["Adventure","Drama"]
+	},
+	{
+		"title" : "Unforgettable (1996)",
+		"year" : 1996,
+		"genre" : ["Sci-Fi","Thriller"]
+	},
+	{
+		"title" : "Down Periscope (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Flower of My Secret, The (Flor de mi secreto, La) (1995)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Craft, The (1996)",
+		"year" : 1996,
+		"genre" : ["Drama","Horror"]
+	},
+	{
+		"title" : "Harriet the Spy (1996)",
+		"year" : 1996,
+		"genre" : ["Children","Comedy"]
+	},
+	{
+		"title" : "Chain Reaction (1996)",
+		"year" : 1996,
+		"genre" : ["Action","Adventure","Thriller"]
+	},
+	{
+		"title" : "Island of Dr. Moreau, The (1996)",
+		"year" : 1996,
+		"genre" : ["Sci-Fi","Thriller"]
+	},
+	{
+		"title" : "First Kid (1996)",
+		"year" : 1996,
+		"genre" : ["Children","Comedy"]
+	},
+	{
+		"title" : "Funeral, The (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Preacher's Wife, The (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Paradise Road (1997)",
+		"year" : 1997,
+		"genre" : ["Drama","War"]
+	},
+	{
+		"title" : "Brassed Off (1996)",
+		"year" : 1997,
+		"genre" : ["Comedy","Drama","Romance"]
+	},
+	{
+		"title" : "Thousand Acres, A (1997)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Smile Like Yours, A (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Murder in the First (1995)",
+		"year" : 1995,
+		"genre" : ["Drama","Thriller"]
+	},
+	{
+		"title" : "Airheads (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "With Honors (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "What's Love Got to Do with It (1993)",
+		"year" : 1993,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Killing Zoe (1994)",
+		"year" : 1994,
+		"genre" : ["Thriller"]
+	},
+	{
+		"title" : "Renaissance Man (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","Drama","War"]
+	},
+	{
+		"title" : "Charade (1963)",
+		"year" : 1963,
+		"genre" : ["Comedy","Mystery","Romance","Thriller"]
+	},
+	{
+		"title" : "Fox and the Hound, The (1981)",
+		"year" : 1981,
+		"genre" : ["Animation","Children"]
+	},
+	{
+		"title" : "Big Blue, The (Grand bleu, Le) (1988)",
+		"year" : 1988,
+		"genre" : ["Adventure","Romance"]
+	},
+	{
+		"title" : "Booty Call (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "How to Make an American Quilt (1995)",
+		"year" : 1995,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Georgia (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Indian in the Cupboard, The (1995)",
+		"year" : 1995,
+		"genre" : ["Adventure","Children","Fantasy"]
+	},
+	{
+		"title" : "Blue in the Face (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Unstrung Heroes (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Unzipped (1995)",
+		"year" : 1995,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "Before Sunrise (1995)",
+		"year" : 1995,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Nobody's Fool (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Pushing Hands (1992)",
+		"year" : 1992,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "To Live (Huozhe) (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Dazed and Confused (1993)",
+		"year" : 1993,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Naked (1993)",
+		"year" : 1993,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Orlando (1993)",
+		"year" : 1993,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Ruby in Paradise (1993)",
+		"year" : 1993,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Some Folks Call It a Sling Blade (1993)",
+		"year" : 1993,
+		"genre" : ["Drama","Thriller"]
+	},
+	{
+		"title" : "Month by the Lake, A (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Funny Face (1957)",
+		"year" : 1957,
+		"genre" : ["Comedy","Musical"]
+	},
+	{
+		"title" : "Affair to Remember, An (1957)",
+		"year" : 1957,
+		"genre" : ["Romance"]
+	},
+	{
+		"title" : "Little Lord Fauntleroy (1936)",
+		"year" : 1936,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Inspector General, The (1949)",
+		"year" : 1949,
+		"genre" : ["Musical"]
+	},
+	{
+		"title" : "Winnie the Pooh and the Blustery Day (1968)",
+		"year" : 1968,
+		"genre" : ["Animation","Children"]
+	},
+	{
+		"title" : "Hear My Song (1991)",
+		"year" : 1991,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Mediterraneo (1991)",
+		"year" : 1991,
+		"genre" : ["Comedy","War"]
+	},
+	{
+		"title" : "Passion Fish (1992)",
+		"year" : 1992,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Grateful Dead (1995)",
+		"year" : 1996,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "Eye for an Eye (1996)",
+		"year" : 1996,
+		"genre" : ["Drama","Thriller"]
+	},
+	{
+		"title" : "Fear (1996)",
+		"year" : 1996,
+		"genre" : ["Thriller"]
+	},
+	{
+		"title" : "Solo (1996)",
+		"year" : 1996,
+		"genre" : ["Action","Sci-Fi","Thriller"]
+	},
+	{
+		"title" : "Substitute, The (1996)",
+		"year" : 1996,
+		"genre" : ["Action"]
+	},
+	{
+		"title" : "Heaven's Prisoners (1996)",
+		"year" : 1996,
+		"genre" : ["Mystery","Thriller"]
+	},
+	{
+		"title" : "Trigger Effect, The (1996)",
+		"year" : 1996,
+		"genre" : ["Drama","Thriller"]
+	},
+	{
+		"title" : "Mother Night (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Dangerous Ground (1997)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Maximum Risk (1996)",
+		"year" : 1996,
+		"genre" : ["Action","Adventure","Thriller"]
+	},
+	{
+		"title" : "Rich Man's Wife, The (1996)",
+		"year" : 1996,
+		"genre" : ["Thriller"]
+	},
+	{
+		"title" : "Shadow Conspiracy (1997)",
+		"year" : 1997,
+		"genre" : ["Thriller"]
+	},
+	{
+		"title" : "Blood & Wine (1997)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Turbulence (1997)",
+		"year" : 1997,
+		"genre" : ["Thriller"]
+	},
+	{
+		"title" : "Underworld (1997)",
+		"year" : 1997,
+		"genre" : ["Thriller"]
+	},
+	{
+		"title" : "Beautician and the Beast, The (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Cats Don't Dance (1997)",
+		"year" : 1997,
+		"genre" : ["Animation","Children","Musical"]
+	},
+	{
+		"title" : "Anna Karenina (1997)",
+		"year" : 1997,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Keys to Tulsa (1997)",
+		"year" : 1997,
+		"genre" : ["Crime"]
+	},
+	{
+		"title" : "Head Above Water (1996)",
+		"year" : 1997,
+		"genre" : ["Comedy","Thriller"]
+	},
+	{
+		"title" : "Hercules (1997)",
+		"year" : 1997,
+		"genre" : ["Adventure","Animation","Children","Comedy","Musical"]
+	},
+	{
+		"title" : "Last Time I Committed Suicide, The (1997)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Kiss Me, Guido (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Big Green, The (1995)",
+		"year" : 1995,
+		"genre" : ["Children","Comedy"]
+	},
+	{
+		"title" : "Stuart Saves His Family (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Cabin Boy (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Clean Slate (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Lightning Jack (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","Western"]
+	},
+	{
+		"title" : "Stupids, The (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Pest, The (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "That Darn Cat! (1997)",
+		"year" : 1997,
+		"genre" : ["Children","Comedy","Mystery"]
+	},
+	{
+		"title" : "Geronimo: An American Legend (1993)",
+		"year" : 1993,
+		"genre" : ["Drama","Western"]
+	},
+	{
+		"title" : "Double vie de Véronique, La (Double Life of Veronique, The) (1991)",
+		"year" : 1991,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Until the End of the World (Bis ans Ende der Welt) (1991)",
+		"year" : 1991,
+		"genre" : ["Drama","Sci-Fi"]
+	},
+	{
+		"title" : "Waiting for Guffman (1996)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "I Shot Andy Warhol (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Stealing Beauty (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Basquiat (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "2 Days in the Valley (1996)",
+		"year" : 1996,
+		"genre" : ["Crime"]
+	},
+	{
+		"title" : "Private Parts (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Anaconda (1997)",
+		"year" : 1997,
+		"genre" : ["Action","Adventure","Thriller"]
+	},
+	{
+		"title" : "Romy and Michele's High School Reunion (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Shiloh (1997)",
+		"year" : 1997,
+		"genre" : ["Children","Drama"]
+	},
+	{
+		"title" : "Con Air (1997)",
+		"year" : 1997,
+		"genre" : ["Action","Adventure","Thriller"]
+	},
+	{
+		"title" : "Trees Lounge (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Tie Me Up! Tie Me Down! (1990)",
+		"year" : 1990,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Die xue shuang xiong (Killer, The) (1989)",
+		"year" : 1989,
+		"genre" : ["Action","Thriller"]
+	},
+	{
+		"title" : "Gaslight (1944)",
+		"year" : 1944,
+		"genre" : ["Mystery","Thriller"]
+	},
+	{
+		"title" : "8 1/2 (1963)",
+		"year" : 1963,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Fast, Cheap & Out of Control (1997)",
+		"year" : 1997,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "Fathers' Day (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Mrs. Dalloway (1997)",
+		"year" : 1997,
+		"genre" : ["Romance"]
+	},
+	{
+		"title" : "Fire Down Below (1997)",
+		"year" : 1997,
+		"genre" : ["Action","Drama","Thriller"]
+	},
+	{
+		"title" : "Lay of the Land, The (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Shooter, The (1995)",
+		"year" : 1995,
+		"genre" : ["Action"]
+	},
+	{
+		"title" : "Grumpier Old Men (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Jury Duty (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Beverly Hillbillies, The (1993)",
+		"year" : 1993,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Lassie (1994)",
+		"year" : 1994,
+		"genre" : ["Adventure","Children"]
+	},
+	{
+		"title" : "Little Big League (1994)",
+		"year" : 1994,
+		"genre" : ["Children","Comedy"]
+	},
+	{
+		"title" : "Homeward Bound II: Lost in San Francisco (1996)",
+		"year" : 1996,
+		"genre" : ["Adventure","Children"]
+	},
+	{
+		"title" : "Quest, The (1996)",
+		"year" : 1996,
+		"genre" : ["Action","Adventure"]
+	},
+	{
+		"title" : "Cool Runnings (1993)",
+		"year" : 1993,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Drop Dead Fred (1991)",
+		"year" : 1991,
+		"genre" : ["Comedy","Fantasy"]
+	},
+	{
+		"title" : "Grease 2 (1982)",
+		"year" : 1982,
+		"genre" : ["Comedy","Musical","Romance"]
+	},
+	{
+		"title" : "Switchback (1997)",
+		"year" : 1997,
+		"genre" : ["Thriller"]
+	},
+	{
+		"title" : "Hamlet (1996)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Two if by Sea (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Forget Paris (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Just Cause (1995)",
+		"year" : 1995,
+		"genre" : ["Mystery","Thriller"]
+	},
+	{
+		"title" : "Rent-a-Kid (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Paper, The (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Fearless (1993)",
+		"year" : 1993,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Malice (1993)",
+		"year" : 1993,
+		"genre" : ["Thriller"]
+	},
+	{
+		"title" : "Multiplicity (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "She's the One (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "House Arrest (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Ghost and Mrs. Muir, The (1947)",
+		"year" : 1947,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Associate, The (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Dracula: Dead and Loving It (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy","Horror"]
+	},
+	{
+		"title" : "Now and Then (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Mr. Wrong (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Simple Twist of Fate, A (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Cronos (1992)",
+		"year" : 1992,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Pallbearer, The (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "War, The (1994)",
+		"year" : 1994,
+		"genre" : ["Adventure","Drama"]
+	},
+	{
+		"title" : "Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Adventures of Pinocchio, The (1996)",
+		"year" : 1996,
+		"genre" : ["Adventure","Children"]
+	},
+	{
+		"title" : "Evening Star, The (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Four Days in September (1997)",
+		"year" : 1998,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Little Princess, A (1995)",
+		"year" : 1995,
+		"genre" : ["Children","Drama"]
+	},
+	{
+		"title" : "Crossfire (1947)",
+		"year" : 1947,
+		"genre" : ["Crime","Film-Noir"]
+	},
+	{
+		"title" : "Koyaanisqatsi (1983)",
+		"year" : 1983,
+		"genre" : ["Documentary","War"]
+	},
+	{
+		"title" : "Balto (1995)",
+		"year" : 1995,
+		"genre" : ["Animation","Children"]
+	},
+	{
+		"title" : "Bottle Rocket (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Star Maker, The (Uomo delle stelle, L') (1995)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Amateur (1994)",
+		"year" : 1994,
+		"genre" : ["Crime","Drama","Thriller"]
+	},
+	{
+		"title" : "Living in Oblivion (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Party Girl (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Pyromaniac's Love Story, A (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Shallow Grave (1994)",
+		"year" : 1994,
+		"genre" : ["Thriller"]
+	},
+	{
+		"title" : "Reality Bites (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Man of No Importance, A (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Pagemaster, The (1994)",
+		"year" : 1994,
+		"genre" : ["Action","Adventure","Animation","Children","Fantasy"]
+	},
+	{
+		"title" : "Love and a .45 (1994)",
+		"year" : 1994,
+		"genre" : ["Thriller"]
+	},
+	{
+		"title" : "Oliver & Company (1988)",
+		"year" : 1988,
+		"genre" : ["Animation","Children"]
+	},
+	{
+		"title" : "Joe's Apartment (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy","Musical"]
+	},
+	{
+		"title" : "Celestial Clockwork (1994)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Curdled (1996)",
+		"year" : 1996,
+		"genre" : ["Crime"]
+	},
+	{
+		"title" : "Female Perversions (1996)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Albino Alligator (1996)",
+		"year" : 1997,
+		"genre" : ["Crime","Thriller"]
+	},
+	{
+		"title" : "Anne Frank Remembered (1995)",
+		"year" : 1996,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "Carried Away (1996)",
+		"year" : 1996,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "It's My Party (1995)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Bloodsport 2 (1995)",
+		"year" : 1996,
+		"genre" : ["Action"]
+	},
+	{
+		"title" : "Double Team (1997)",
+		"year" : 1997,
+		"genre" : ["Action"]
+	},
+	{
+		"title" : "Speed 2: Cruise Control (1997)",
+		"year" : 1997,
+		"genre" : ["Action","Romance","Thriller"]
+	},
+	{
+		"title" : "Sliver (1993)",
+		"year" : 1993,
+		"genre" : ["Thriller"]
+	},
+	{
+		"title" : "Pete's Dragon (1977)",
+		"year" : 1977,
+		"genre" : ["Adventure","Animation","Children","Musical"]
+	},
+	{
+		"title" : "Dear God (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Live Nude Girls (1995)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Thin Line Between Love and Hate, A (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "High School High (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Commandments (1997)",
+		"year" : 1997,
+		"genre" : ["Romance"]
+	},
+	{
+		"title" : "Hate (Haine, La) (1995)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Flirting With Disaster (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Red Firecracker, Green Firecracker (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "What Happened Was... (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","Drama","Romance"]
+	},
+	{
+		"title" : "Six Degrees of Separation (1993)",
+		"year" : 1993,
+		"genre" : ["Drama","Mystery"]
+	},
+	{
+		"title" : "Two Much (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Trust (1990)",
+		"year" : 1990,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "C'est arrivé près de chez vous (1992)",
+		"year" : 1992,
+		"genre" : ["Comedy","Crime","Drama"]
+	},
+	{
+		"title" : "Firestorm (1998)",
+		"year" : 1998,
+		"genre" : ["Action","Adventure","Thriller"]
+	},
+	{
+		"title" : "Newton Boys, The (1998)",
+		"year" : 1998,
+		"genre" : ["Crime","Drama"]
+	},
+	{
+		"title" : "Beyond Rangoon (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Feast of July (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Death and the Maiden (1994)",
+		"year" : 1994,
+		"genre" : ["Drama","Thriller"]
+	},
+	{
+		"title" : "Tank Girl (1995)",
+		"year" : 1995,
+		"genre" : ["Action","Comedy","Musical","Sci-Fi"]
+	},
+	{
+		"title" : "Double Happiness (1994)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Cobb (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Mrs. Parker and the Vicious Circle (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Faithful (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Twelfth Night (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy","Drama","Romance"]
+	},
+	{
+		"title" : "Mark of Zorro, The (1940)",
+		"year" : 1940,
+		"genre" : ["Adventure"]
+	},
+	{
+		"title" : "Surviving Picasso (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Up in Smoke (1978)",
+		"year" : 1978,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Some Kind of Wonderful (1987)",
+		"year" : 1987,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "I'm Not Rappaport (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964)",
+		"year" : 1996,
+		"genre" : ["Drama","Musical"]
+	},
+	{
+		"title" : "They Made Me a Criminal (1939)",
+		"year" : 1939,
+		"genre" : ["Crime","Drama"]
+	},
+	{
+		"title" : "Last Time I Saw Paris, The (1954)",
+		"year" : 1954,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Farewell to Arms, A (1932)",
+		"year" : 1932,
+		"genre" : ["Romance","War"]
+	},
+	{
+		"title" : "Innocents, The (1961)",
+		"year" : 1961,
+		"genre" : ["Thriller"]
+	},
+	{
+		"title" : "Old Man and the Sea, The (1958)",
+		"year" : 1958,
+		"genre" : ["Adventure","Drama"]
+	},
+	{
+		"title" : "Truman Show, The (1998)",
+		"year" : 1998,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Heidi Fleiss: Hollywood Madam (1995) ",
+		"year" : 1996,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "Chungking Express (1994)",
+		"year" : 1996,
+		"genre" : ["Drama","Mystery","Romance"]
+	},
+	{
+		"title" : "Jupiter's Wife (1994)",
+		"year" : 1996,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "Safe (1995)",
+		"year" : 1995,
+		"genre" : ["Thriller"]
+	},
+	{
+		"title" : "Feeling Minnesota (1996)",
+		"year" : 1996,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Escape to Witch Mountain (1975)",
+		"year" : 1975,
+		"genre" : ["Adventure","Children","Fantasy"]
+	},
+	{
+		"title" : "Get on the Bus (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Doors, The (1991)",
+		"year" : 1991,
+		"genre" : ["Drama","Musical"]
+	},
+	{
+		"title" : "Ghosts of Mississippi (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Beautiful Thing (1996)",
+		"year" : 1996,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Best Men (1997)",
+		"year" : 1997,
+		"genre" : ["Action","Comedy","Crime","Drama"]
+	},
+	{
+		"title" : "Hackers (1995)",
+		"year" : 1995,
+		"genre" : ["Action","Crime","Thriller"]
+	},
+	{
+		"title" : "Road to Wellville, The (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "War Room, The (1993)",
+		"year" : 1993,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "When We Were Kings (1996)",
+		"year" : 1997,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "Hard Eight (1996)",
+		"year" : 1997,
+		"genre" : ["Crime","Thriller"]
+	},
+	{
+		"title" : "Quiet Room, The (1996)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Blue Chips (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Calendar Girl (1993)",
+		"year" : 1993,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "My Family (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Tom & Viv (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Walkabout (1971)",
+		"year" : 1971,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Last Dance (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Original Gangstas (1996)",
+		"year" : 1996,
+		"genre" : ["Crime"]
+	},
+	{
+		"title" : "In Love and War (1996)",
+		"year" : 1997,
+		"genre" : ["Romance","War"]
+	},
+	{
+		"title" : "Backbeat (1993)",
+		"year" : 1993,
+		"genre" : ["Drama","Musical"]
+	},
+	{
+		"title" : "Alphaville (1965)",
+		"year" : 1965,
+		"genre" : ["Sci-Fi"]
+	},
+	{
+		"title" : "Rendezvous in Paris (Rendez-vous de Paris, Les) (1995)",
+		"year" : 1996,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Cyclo (1995)",
+		"year" : 1996,
+		"genre" : ["Crime","Drama"]
+	},
+	{
+		"title" : "Relic, The (1997)",
+		"year" : 1997,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Fille seule, La (A Single Girl) (1995)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Stalker (1979)",
+		"year" : 1979,
+		"genre" : ["Mystery","Sci-Fi"]
+	},
+	{
+		"title" : "Love! Valour! Compassion! (1997)",
+		"year" : 1997,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Palookaville (1996)",
+		"year" : 1996,
+		"genre" : ["Action","Drama"]
+	},
+	{
+		"title" : "Phat Beach (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Portrait of a Lady, The (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Zeus and Roxanne (1997)",
+		"year" : 1997,
+		"genre" : ["Children"]
+	},
+	{
+		"title" : "Big Bully (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Love & Human Remains (1993)",
+		"year" : 1993,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Sum of Us, The (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Little Buddha (1993)",
+		"year" : 1993,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Fresh (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Spanking the Monkey (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Wild Reeds (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Women, The (1939)",
+		"year" : 1939,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Bliss (1997)",
+		"year" : 1997,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Caught (1996)",
+		"year" : 1996,
+		"genre" : ["Drama","Thriller"]
+	},
+	{
+		"title" : "Hugo Pool (1997)",
+		"year" : 1997,
+		"genre" : ["Romance"]
+	},
+	{
+		"title" : "Welcome To Sarajevo (1997)",
+		"year" : 1997,
+		"genre" : ["Drama","War"]
+	},
+	{
+		"title" : "Dunston Checks In (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Major Payne (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Man of the House (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "I Love Trouble (1994)",
+		"year" : 1994,
+		"genre" : ["Action","Comedy"]
+	},
+	{
+		"title" : "Low Down Dirty Shame, A (1994)",
+		"year" : 1994,
+		"genre" : ["Action","Comedy"]
+	},
+	{
+		"title" : "Cops and Robbersons (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Cowboy Way, The (1994)",
+		"year" : 1994,
+		"genre" : ["Action","Comedy"]
+	},
+	{
+		"title" : "Endless Summer 2, The (1994)",
+		"year" : 1994,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "In the Army Now (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","War"]
+	},
+	{
+		"title" : "Inkwell, The (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Switchblade Sisters (1975)",
+		"year" : 1975,
+		"genre" : ["Crime"]
+	},
+	{
+		"title" : "Young Guns II (1990)",
+		"year" : 1990,
+		"genre" : ["Action","Comedy","Western"]
+	},
+	{
+		"title" : "Prefontaine (1997)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "That Old Feeling (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Letter From Death Row, A (1998)",
+		"year" : 1998,
+		"genre" : ["Crime","Drama"]
+	},
+	{
+		"title" : "Boys of St. Vincent, The (1993)",
+		"year" : 1993,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Before the Rain (Pred dozhdot) (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Once Were Warriors (1994)",
+		"year" : 1994,
+		"genre" : ["Crime","Drama"]
+	},
+	{
+		"title" : "Strawberry and Chocolate (Fresa y chocolate) (1993)",
+		"year" : 1993,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Savage Nights (Nuits fauves, Les) (1992)",
+		"year" : 1992,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Family Thing, A (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Purple Noon (1960)",
+		"year" : 1960,
+		"genre" : ["Crime","Thriller"]
+	},
+	{
+		"title" : "Cemetery Man (Dellamorte Dellamore) (1994)",
+		"year" : 1996,
+		"genre" : ["Comedy","Horror"]
+	},
+	{
+		"title" : "Kim (1950)",
+		"year" : 1950,
+		"genre" : ["Children","Drama"]
+	},
+	{
+		"title" : "Marlene Dietrich: Shadow and Light (1996) ",
+		"year" : 1996,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "Maybe, Maybe Not (Bewegte Mann, Der) (1994)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Top Hat (1935)",
+		"year" : 1935,
+		"genre" : ["Comedy","Musical","Romance"]
+	},
+	{
+		"title" : "To Be or Not to Be (1942)",
+		"year" : 1942,
+		"genre" : ["Comedy","Drama","War"]
+	},
+	{
+		"title" : "Secret Agent, The (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Amos & Andrew (1993)",
+		"year" : 1993,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Jade (1995)",
+		"year" : 1995,
+		"genre" : ["Thriller"]
+	},
+	{
+		"title" : "Kiss of Death (1995)",
+		"year" : 1995,
+		"genre" : ["Crime","Drama","Thriller"]
+	},
+	{
+		"title" : "Mixed Nuts (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Virtuosity (1995)",
+		"year" : 1995,
+		"genre" : ["Sci-Fi","Thriller"]
+	},
+	{
+		"title" : "Blue Sky (1994)",
+		"year" : 1994,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Flesh and Bone (1993)",
+		"year" : 1993,
+		"genre" : ["Drama","Mystery","Romance"]
+	},
+	{
+		"title" : "Guilty as Sin (1993)",
+		"year" : 1993,
+		"genre" : ["Crime","Drama","Thriller"]
+	},
+	{
+		"title" : "In the Realm of the Senses (Ai no corrida) (1976)",
+		"year" : 1976,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Barb Wire (1996)",
+		"year" : 1996,
+		"genre" : ["Action","Sci-Fi"]
+	},
+	{
+		"title" : "Kissed (1996)",
+		"year" : 1997,
+		"genre" : ["Romance"]
+	},
+	{
+		"title" : "Assassins (1995)",
+		"year" : 1995,
+		"genre" : ["Thriller"]
+	},
+	{
+		"title" : "Friday (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Goofy Movie, A (1995)",
+		"year" : 1995,
+		"genre" : ["Animation","Children","Comedy","Romance"]
+	},
+	{
+		"title" : "Higher Learning (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "When a Man Loves a Woman (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Judgment Night (1993)",
+		"year" : 1993,
+		"genre" : ["Action"]
+	},
+	{
+		"title" : "King of the Hill (1993)",
+		"year" : 1993,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Scout, The (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Angus (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Night Falls on Manhattan (1997)",
+		"year" : 1997,
+		"genre" : ["Crime","Drama"]
+	},
+	{
+		"title" : "Awfully Big Adventure, An (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Under Siege 2: Dark Territory (1995)",
+		"year" : 1995,
+		"genre" : ["Action"]
+	},
+	{
+		"title" : "Poison Ivy II (1995)",
+		"year" : 1995,
+		"genre" : ["Drama","Thriller"]
+	},
+	{
+		"title" : "Ready to Wear (Pret-A-Porter) (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Marked for Death (1990)",
+		"year" : 1990,
+		"genre" : ["Action","Drama"]
+	},
+	{
+		"title" : "Madonna: Truth or Dare (1991)",
+		"year" : 1991,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "Nénette et Boni (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Chairman of the Board (1998)",
+		"year" : 1998,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Big Bang Theory, The (1994)",
+		"year" : 1994,
+		"genre" : ["Crime"]
+	},
+	{
+		"title" : "Other Voices, Other Rooms (1997)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Twisted (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Full Speed (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Cutthroat Island (1995)",
+		"year" : 1995,
+		"genre" : ["Action","Adventure","Romance"]
+	},
+	{
+		"title" : "Ghost in the Shell (Kokaku kidotai) (1995)",
+		"year" : 1996,
+		"genre" : ["Animation","Sci-Fi"]
+	},
+	{
+		"title" : "Van, The (1996)",
+		"year" : 1997,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Old Lady Who Walked in the Sea, The (Vieille qui marchait dans la mer, La) (1991)",
+		"year" : 1991,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Night Flier (1997)",
+		"year" : 1998,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Metro (1997)",
+		"year" : 1997,
+		"genre" : ["Action"]
+	},
+	{
+		"title" : "Gridlock'd (1997)",
+		"year" : 1997,
+		"genre" : ["Crime"]
+	},
+	{
+		"title" : "Bushwhacked (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Bad Girls (1994)",
+		"year" : 1994,
+		"genre" : ["Western"]
+	},
+	{
+		"title" : "Blink (1994)",
+		"year" : 1994,
+		"genre" : ["Thriller"]
+	},
+	{
+		"title" : "For Love or Money (1993)",
+		"year" : 1993,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Best of the Best 3: No Turning Back (1995)",
+		"year" : 1995,
+		"genre" : ["Action"]
+	},
+	{
+		"title" : "A Chef in Love (1996)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Contempt (Mépris, Le) (1963)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Tie That Binds, The (1995)",
+		"year" : 1995,
+		"genre" : ["Thriller"]
+	},
+	{
+		"title" : "Gone Fishin' (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Broken English (1996)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Designated Mourner, The (1997)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Designated Mourner, The (1997)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Trial and Error (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Pie in the Sky (1995)",
+		"year" : 1996,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Total Eclipse (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Run of the Country, The (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Walking and Talking (1996)",
+		"year" : 1996,
+		"genre" : ["Romance"]
+	},
+	{
+		"title" : "Foxfire (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Nothing to Lose (1994)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Star Maps (1997)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Bread and Chocolate (Pane e cioccolata) (1973)",
+		"year" : 1973,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Clockers (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Bitter Moon (1992)",
+		"year" : 1992,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Love in the Afternoon (1957)",
+		"year" : 1957,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Life with Mikey (1993)",
+		"year" : 1993,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "North (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Talking About Sex (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Color of Night (1994)",
+		"year" : 1994,
+		"genre" : ["Drama","Thriller"]
+	},
+	{
+		"title" : "Robocop 3 (1993)",
+		"year" : 1993,
+		"genre" : ["Sci-Fi","Thriller"]
+	},
+	{
+		"title" : "Killer (Bulletproof Heart) (1994)",
+		"year" : 1994,
+		"genre" : ["Thriller"]
+	},
+	{
+		"title" : "Sunset Park (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Set It Off (1996)",
+		"year" : 1996,
+		"genre" : ["Action","Crime"]
+	},
+	{
+		"title" : "Selena (1997)",
+		"year" : 1997,
+		"genre" : ["Drama","Musical"]
+	},
+	{
+		"title" : "Wild America (1997)",
+		"year" : 1997,
+		"genre" : ["Adventure","Children"]
+	},
+	{
+		"title" : "Gang Related (1997)",
+		"year" : 1997,
+		"genre" : ["Crime"]
+	},
+	{
+		"title" : "Manny & Lo (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Grass Harp, The (1995)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Out to Sea (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Before and After (1996)",
+		"year" : 1996,
+		"genre" : ["Drama","Mystery"]
+	},
+	{
+		"title" : "Princess Caraboo (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Shall We Dance? (1937)",
+		"year" : 1937,
+		"genre" : ["Comedy","Musical","Romance"]
+	},
+	{
+		"title" : "Ed (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Denise Calls Up (1995)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Jack and Sarah (1995)",
+		"year" : 1996,
+		"genre" : ["Romance"]
+	},
+	{
+		"title" : "Country Life (1994)",
+		"year" : 1994,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Celtic Pride (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Simple Wish, A (1997)",
+		"year" : 1997,
+		"genre" : ["Children","Fantasy"]
+	},
+	{
+		"title" : "Star Kid (1997)",
+		"year" : 1998,
+		"genre" : ["Adventure","Children","Fantasy","Sci-Fi"]
+	},
+	{
+		"title" : "Ayn Rand: A Sense of Life (1997)",
+		"year" : 1998,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "Kicked in the Head (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Indian Summer (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Love Affair (1994)",
+		"year" : 1994,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Band Wagon, The (1953)",
+		"year" : 1953,
+		"genre" : ["Comedy","Musical"]
+	},
+	{
+		"title" : "Penny Serenade (1941)",
+		"year" : 1941,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "'Til There Was You (1997)",
+		"year" : 1997,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Stripes (1981)",
+		"year" : 1981,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Late Bloomers (1996)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Getaway, The (1994)",
+		"year" : 1994,
+		"genre" : ["Action"]
+	},
+	{
+		"title" : "New York Cop (1996)",
+		"year" : 1996,
+		"genre" : ["Action","Crime"]
+	},
+	{
+		"title" : "National Lampoon's Senior Trip (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Delta of Venus (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Carmen Miranda: Bananas Is My Business (1994)",
+		"year" : 1994,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "Babyfever (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Very Natural Thing, A (1974)",
+		"year" : 1974,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Walk in the Sun, A (1945)",
+		"year" : 1945,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Waiting to Exhale (1995)",
+		"year" : 1996,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Pompatus of Love, The (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Palmetto (1998)",
+		"year" : 1998,
+		"genre" : ["Film-Noir","Mystery","Thriller"]
+	},
+	{
+		"title" : "Surviving the Game (1994)",
+		"year" : 1994,
+		"genre" : ["Action","Adventure","Thriller"]
+	},
+	{
+		"title" : "Inventing the Abbotts (1997)",
+		"year" : 1997,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Horse Whisperer, The (1998)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Journey of August King, The (1995)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Catwalk (1995)",
+		"year" : 1996,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "Neon Bible, The (1995)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Homage (1995)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Open Season (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Metisse (Café au Lait) (1993)",
+		"year" : 1993,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Wooden Man's Bride, The (Wu Kui) (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Loaded (1994)",
+		"year" : 1996,
+		"genre" : ["Drama","Thriller"]
+	},
+	{
+		"title" : "August (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Boys (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Captives (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Of Love and Shadows (1994)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Low Life, The (1994)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "An Unforgettable Summer (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Last Klezmer: Leopold Kozlowski, His Life and Music, The (1995)",
+		"year" : 1995,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "My Life and Times With Antonin Artaud (En compagnie d'Antonin Artaud) (1993)",
+		"year" : 1993,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Midnight Dancers (Sibak) (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Somebody to Love (1994)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "American Buffalo (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Kazaam (1996)",
+		"year" : 1996,
+		"genre" : ["Children","Comedy","Fantasy"]
+	},
+	{
+		"title" : "Larger Than Life (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Two Deaths (1995)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Stefano Quantestorie (1993)",
+		"year" : 1993,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Crude Oasis, The (1995)",
+		"year" : 1995,
+		"genre" : ["Romance"]
+	},
+	{
+		"title" : "Hedd Wyn (1992)",
+		"year" : 1992,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Convent, The (Convento, O) (1995)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Lotto Land (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Story of Xinghua, The (1993)",
+		"year" : 1993,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Day the Sun Turned Cold, The (Tianguo niezi) (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Dingo (1992)",
+		"year" : 1992,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Ballad of Narayama, The (Narayama Bushiko) (1958)",
+		"year" : 1958,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Every Other Weekend (1990)",
+		"year" : 1990,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Mille bolle blu (1993)",
+		"year" : 1993,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Crows and Sparrows (1949)",
+		"year" : 1949,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Lover's Knot (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Shadow of Angels (Schatten der Engel) (1976)",
+		"year" : 1976,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "1-900 (1994)",
+		"year" : 1994,
+		"genre" : ["Romance"]
+	},
+	{
+		"title" : "Venice/Venice (1992)",
+		"year" : 1992,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Infinity (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Ed's Next Move (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "For the Moment (1994)",
+		"year" : 1994,
+		"genre" : ["Romance","War"]
+	},
+	{
+		"title" : "The Deadly Cure (1996)",
+		"year" : 1996,
+		"genre" : ["Action"]
+	},
+	{
+		"title" : "Boys in Venice (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Sexual Life of the Belgians, The (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Search for One-eye Jimmy, The (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "American Strays (1996)",
+		"year" : 1996,
+		"genre" : ["Action"]
+	},
+	{
+		"title" : "Leopard Son, The (1996)",
+		"year" : 1996,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "Bird of Prey (1996)",
+		"year" : 1996,
+		"genre" : ["Action"]
+	},
+	{
+		"title" : "Johnny 100 Pesos (1993)",
+		"year" : 1993,
+		"genre" : ["Action","Drama"]
+	},
+	{
+		"title" : "JLG/JLG - autoportrait de décembre (1994)",
+		"year" : 1994,
+		"genre" : ["Documentary","Drama"]
+	},
+	{
+		"title" : "Faust (1994)",
+		"year" : 1994,
+		"genre" : ["Animation"]
+	},
+	{
+		"title" : "Mina Tannenbaum (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Forbidden Christ, The (Cristo proibito, Il) (1950)",
+		"year" : 1950,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "I Can't Sleep (J'ai pas sommeil) (1994)",
+		"year" : 1994,
+		"genre" : ["Drama","Thriller"]
+	},
+	{
+		"title" : "Machine, The (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","Horror"]
+	},
+	{
+		"title" : "Stranger, The (1994)",
+		"year" : 1994,
+		"genre" : ["Action"]
+	},
+	{
+		"title" : "Good Morning (1971)",
+		"year" : 1971,
+		"genre" : ["unknown"]
+	},
+	{
+		"title" : "Falling in Love Again (1980)",
+		"year" : 1980,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Cement Garden, The (1993)",
+		"year" : 1993,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Meet Wally Sparks (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Hotel de Love (1996)",
+		"year" : 1997,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Rhyme & Reason (1997)",
+		"year" : 1997,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "Love and Other Catastrophes (1996)",
+		"year" : 1997,
+		"genre" : ["Romance"]
+	},
+	{
+		"title" : "Hollow Reed (1996)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Losing Chase (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Bonheur, Le (1965)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Second Jungle Book: Mowgli & Baloo, The (1997)",
+		"year" : 1997,
+		"genre" : ["Adventure","Children"]
+	},
+	{
+		"title" : "Squeeze (1996)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Roseanna's Grave (For Roseanna) (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Tetsuo II: Body Hammer (1992)",
+		"year" : 1997,
+		"genre" : ["Sci-Fi"]
+	},
+	{
+		"title" : "Fall (1997)",
+		"year" : 1997,
+		"genre" : ["Romance"]
+	},
+	{
+		"title" : "Gabbeh (1996)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Mondo (1996)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Innocent Sleep, The (1995)",
+		"year" : 1997,
+		"genre" : ["Crime"]
+	},
+	{
+		"title" : "For Ever Mozart (1996)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Locusts, The (1997)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Stag (1997)",
+		"year" : 1997,
+		"genre" : ["Action","Thriller"]
+	},
+	{
+		"title" : "Swept from the Sea (1997)",
+		"year" : 1997,
+		"genre" : ["Romance"]
+	},
+	{
+		"title" : "Hurricane Streets (1998)",
+		"year" : 1998,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Stonewall (1995)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Of Human Bondage (1934)",
+		"year" : 1934,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Anna (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Stranger in the House (1997)",
+		"year" : 1997,
+		"genre" : ["Thriller"]
+	},
+	{
+		"title" : "Picture Bride (1995)",
+		"year" : 1995,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "M. Butterfly (1993)",
+		"year" : 1993,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Ciao, Professore! (1993)",
+		"year" : 1993,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Caro Diario (Dear Diary) (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Withnail and I (1987)",
+		"year" : 1987,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Boy's Life 2 (1997)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "When Night Is Falling (1995)",
+		"year" : 1995,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Specialist, The (1994)",
+		"year" : 1994,
+		"genre" : ["Action"]
+	},
+	{
+		"title" : "Gordy (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Swan Princess, The (1994)",
+		"year" : 1994,
+		"genre" : ["Animation","Children"]
+	},
+	{
+		"title" : "Harlem (1993)",
+		"year" : 1993,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Barbarella (1968)",
+		"year" : 1968,
+		"genre" : ["Adventure","Sci-Fi"]
+	},
+	{
+		"title" : "Land Before Time III: The Time of the Great Giving (1995) (V)",
+		"year" : 1995,
+		"genre" : ["Animation","Children"]
+	},
+	{
+		"title" : "Street Fighter (1994)",
+		"year" : 1994,
+		"genre" : ["Action"]
+	},
+	{
+		"title" : "Coldblooded (1995)",
+		"year" : 1995,
+		"genre" : ["Action"]
+	},
+	{
+		"title" : "Next Karate Kid, The (1994)",
+		"year" : 1994,
+		"genre" : ["Action","Children"]
+	},
+	{
+		"title" : "No Escape (1994)",
+		"year" : 1994,
+		"genre" : ["Action","Sci-Fi"]
+	},
+	{
+		"title" : "Turning, The (1992)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Joy Luck Club, The (1993)",
+		"year" : 1993,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Highlander III: The Sorcerer (1994)",
+		"year" : 1994,
+		"genre" : ["Action","Sci-Fi"]
+	},
+	{
+		"title" : "Gilligan's Island: The Movie (1998)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "My Crazy Life (Mi vida loca) (1993)",
+		"year" : 1993,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Suture (1993)",
+		"year" : 1993,
+		"genre" : ["Film-Noir","Thriller"]
+	},
+	{
+		"title" : "Walking Dead, The (1995)",
+		"year" : 1995,
+		"genre" : ["Drama","War"]
+	},
+	{
+		"title" : "I Like It Like That (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","Drama","Romance"]
+	},
+	{
+		"title" : "I'll Do Anything (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Grace of My Heart (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Drunks (1995)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "SubUrbia (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Sliding Doors (1998)",
+		"year" : 1998,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Ill Gotten Gains (1997)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Legal Deceit (1997)",
+		"year" : 1997,
+		"genre" : ["Thriller"]
+	},
+	{
+		"title" : "Mighty, The (1998)",
+		"year" : 1998,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Men of Means (1998)",
+		"year" : 1997,
+		"genre" : ["Action","Drama"]
+	},
+	{
+		"title" : "Shooting Fish (1997)",
+		"year" : 1998,
+		"genre" : ["Romance"]
+	},
+	{
+		"title" : "Steal Big, Steal Little (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Mr. Jones (1993)",
+		"year" : 1993,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "House Party 3 (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Panther (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Jason's Lyric (1994)",
+		"year" : 1994,
+		"genre" : ["Crime","Drama"]
+	},
+	{
+		"title" : "Above the Rim (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Moonlight and Valentino (1995)",
+		"year" : 1995,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Scarlet Letter, The (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "8 Seconds (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "That Darn Cat! (1965)",
+		"year" : 1965,
+		"genre" : ["Children","Comedy","Mystery"]
+	},
+	{
+		"title" : "Ladybird Ladybird (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Bye Bye, Love (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Century (1993)",
+		"year" : 1993,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "My Favorite Season (1993)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Pather Panchali (1955)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Golden Earrings (1947)",
+		"year" : 1947,
+		"genre" : ["Adventure","Romance"]
+	},
+	{
+		"title" : "Foreign Correspondent (1940)",
+		"year" : 1940,
+		"genre" : ["Thriller"]
+	},
+	{
+		"title" : "Lady of Burlesque (1943)",
+		"year" : 1943,
+		"genre" : ["Comedy","Mystery"]
+	},
+	{
+		"title" : "Angel on My Shoulder (1946)",
+		"year" : 1946,
+		"genre" : ["Crime","Drama"]
+	},
+	{
+		"title" : "Angel and the Badman (1947)",
+		"year" : 1947,
+		"genre" : ["Western"]
+	},
+	{
+		"title" : "Outlaw, The (1943)",
+		"year" : 1943,
+		"genre" : ["Western"]
+	},
+	{
+		"title" : "Beat the Devil (1954)",
+		"year" : 1954,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Love Is All There Is (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Damsel in Distress, A (1937)",
+		"year" : 1937,
+		"genre" : ["Comedy","Musical","Romance"]
+	},
+	{
+		"title" : "Madame Butterfly (1995)",
+		"year" : 1996,
+		"genre" : ["Musical"]
+	},
+	{
+		"title" : "Sleepover (1995)",
+		"year" : 1996,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Here Comes Cookie (1935)",
+		"year" : 1935,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Thieves (Voleurs, Les) (1996)",
+		"year" : 1996,
+		"genre" : ["Crime","Drama","Romance"]
+	},
+	{
+		"title" : "Boys, Les (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Stars Fell on Henrietta, The (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Last Summer in the Hamptons (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Margaret's Museum (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Saint of Fort Washington, The (1993)",
+		"year" : 1993,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Cure, The (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Tom and Huck (1995)",
+		"year" : 1995,
+		"genre" : ["Adventure","Children"]
+	},
+	{
+		"title" : "Gumby: The Movie (1995)",
+		"year" : 1995,
+		"genre" : ["Animation","Children"]
+	},
+	{
+		"title" : "Hideaway (1995)",
+		"year" : 1995,
+		"genre" : ["Thriller"]
+	},
+	{
+		"title" : "Visitors, The (Visiteurs, Les) (1993)",
+		"year" : 1996,
+		"genre" : ["Comedy","Sci-Fi"]
+	},
+	{
+		"title" : "Little Princess, The (1939)",
+		"year" : 1939,
+		"genre" : ["Children","Drama"]
+	},
+	{
+		"title" : "Nina Takes a Lover (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Bhaji on the Beach (1993)",
+		"year" : 1993,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Raw Deal (1948)",
+		"year" : 1948,
+		"genre" : ["Film-Noir"]
+	},
+	{
+		"title" : "Nightwatch (1997)",
+		"year" : 1997,
+		"genre" : ["Horror","Thriller"]
+	},
+	{
+		"title" : "Dead Presidents (1995)",
+		"year" : 1995,
+		"genre" : ["Action","Crime","Drama"]
+	},
+	{
+		"title" : "Reckless (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Herbie Rides Again (1974)",
+		"year" : 1974,
+		"genre" : ["Adventure","Children","Comedy"]
+	},
+	{
+		"title" : "S.F.W. (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Gate of Heavenly Peace, The (1995)",
+		"year" : 1996,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "Man in the Iron Mask, The (1998)",
+		"year" : 1998,
+		"genre" : ["Action","Drama","Romance"]
+	},
+	{
+		"title" : "Jerky Boys, The (1994)",
+		"year" : 1994,
+		"genre" : ["Action","Comedy"]
+	},
+	{
+		"title" : "Colonel Chabert, Le (1994)",
+		"year" : 1994,
+		"genre" : ["Drama","Romance","War"]
+	},
+	{
+		"title" : "Girl in the Cadillac (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Even Cowgirls Get the Blues (1993)",
+		"year" : 1993,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Germinal (1993)",
+		"year" : 1993,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Chasers (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Fausto (1993)",
+		"year" : 1993,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Tough and Deadly (1995)",
+		"year" : 1995,
+		"genre" : ["Action","Drama","Thriller"]
+	},
+	{
+		"title" : "Window to Paris (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Modern Affair, A (1995)",
+		"year" : 1996,
+		"genre" : ["Romance"]
+	},
+	{
+		"title" : "Mostro, Il (1994)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Flirt (1995)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Carpool (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy","Crime"]
+	},
+	{
+		"title" : "Line King: Al Hirschfeld, The (1996)",
+		"year" : 1996,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "Farmer & Chase (1995)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Grosse Fatigue (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Santa with Muscles (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Prisoner of the Mountains (Kavkazsky Plennik) (1996)",
+		"year" : 1997,
+		"genre" : ["War"]
+	},
+	{
+		"title" : "Naked in New York (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Gold Diggers: The Secret of Bear Mountain (1995)",
+		"year" : 1995,
+		"genre" : ["Adventure","Children"]
+	},
+	{
+		"title" : "Bewegte Mann, Der (1994)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Killer: A Journal of Murder (1995)",
+		"year" : 1996,
+		"genre" : ["Crime","Drama"]
+	},
+	{
+		"title" : "Nelly & Monsieur Arnaud (1995)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Three Lives and Only One Death (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Babysitter, The (1995)",
+		"year" : 1995,
+		"genre" : ["Drama","Thriller"]
+	},
+	{
+		"title" : "Getting Even with Dad (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Mad Dog Time (1996)",
+		"year" : 1996,
+		"genre" : ["Crime"]
+	},
+	{
+		"title" : "Children of the Revolution (1996)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "World of Apu, The (Apur Sansar) (1959)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Sprung (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Dream With the Fishes (1997)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Wings of Courage (1995)",
+		"year" : 1995,
+		"genre" : ["Adventure","Romance"]
+	},
+	{
+		"title" : "Wedding Gift, The (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Race the Sun (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Losing Isaiah (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "New Jersey Drive (1995)",
+		"year" : 1995,
+		"genre" : ["Crime","Drama"]
+	},
+	{
+		"title" : "Fear, The (1995)",
+		"year" : 1995,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Mr. Wonderful (1993)",
+		"year" : 1993,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Trial by Jury (1994)",
+		"year" : 1994,
+		"genre" : ["Thriller"]
+	},
+	{
+		"title" : "Good Man in Africa, A (1994)",
+		"year" : 1994,
+		"genre" : ["Action","Adventure"]
+	},
+	{
+		"title" : "Kaspar Hauser (1993)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Object of My Affection, The (1998)",
+		"year" : 1998,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Witness (1985)",
+		"year" : 1985,
+		"genre" : ["Drama","Romance","Thriller"]
+	},
+	{
+		"title" : "Senseless (1998)",
+		"year" : 1998,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Nowhere (1997)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Underground (1995)",
+		"year" : 1996,
+		"genre" : ["War"]
+	},
+	{
+		"title" : "Jefferson in Paris (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Far From Home: The Adventures of Yellow Dog (1995)",
+		"year" : 1995,
+		"genre" : ["Adventure","Children"]
+	},
+	{
+		"title" : "Foreign Student (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "I Don't Want to Talk About It (De eso no se habla) (1993)",
+		"year" : 1993,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Twin Town (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy","Crime"]
+	},
+	{
+		"title" : "Enfer, L' (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Aiqing wansui (1994)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Cosi (1996)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "All Over Me (1997)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Being Human (1993)",
+		"year" : 1993,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Amazing Panda Adventure, The (1995)",
+		"year" : 1995,
+		"genre" : ["Adventure","Children"]
+	},
+	{
+		"title" : "Beans of Egypt, Maine, The (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Scarlet Letter, The (1926)",
+		"year" : 1926,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Johns (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "It Takes Two (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Frankie Starlight (1995)",
+		"year" : 1995,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Shadows (Cienie) (1988)",
+		"year" : 1988,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Show, The (1995)",
+		"year" : 1995,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "The Courtyard (1995)",
+		"year" : 1995,
+		"genre" : ["Action","Thriller"]
+	},
+	{
+		"title" : "Dream Man (1995)",
+		"year" : 1995,
+		"genre" : ["Thriller"]
+	},
+	{
+		"title" : "Destiny Turns on the Radio (1995)",
+		"year" : 1995,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Glass Shield, The (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Hunted, The (1995)",
+		"year" : 1995,
+		"genre" : ["Action"]
+	},
+	{
+		"title" : "Underneath, The (1995)",
+		"year" : 1995,
+		"genre" : ["Mystery","Thriller"]
+	},
+	{
+		"title" : "Safe Passage (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Secret Adventures of Tom Thumb, The (1993)",
+		"year" : 1993,
+		"genre" : ["Adventure","Children"]
+	},
+	{
+		"title" : "Condition Red (1995)",
+		"year" : 1995,
+		"genre" : ["Action","Drama","Thriller"]
+	},
+	{
+		"title" : "Yankee Zulu (1994)",
+		"year" : 1996,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Aparajito (1956)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Hostile Intentions (1994)",
+		"year" : 1994,
+		"genre" : ["Action","Drama","Thriller"]
+	},
+	{
+		"title" : "Clean Slate (Coup de Torchon) (1981)",
+		"year" : 1981,
+		"genre" : ["Crime"]
+	},
+	{
+		"title" : "Tigrero: A Film That Was Never Made (1994)",
+		"year" : 1994,
+		"genre" : ["Documentary","Drama"]
+	},
+	{
+		"title" : "Eye of Vichy, The (Oeil de Vichy, L') (1993)",
+		"year" : 1993,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "Promise, The (Versprechen, Das) (1994)",
+		"year" : 1994,
+		"genre" : ["Romance"]
+	},
+	{
+		"title" : "To Cross the Rubicon (1991)",
+		"year" : 1991,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Daens (1992)",
+		"year" : 1992,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Man from Down Under, The (1943)",
+		"year" : 1943,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Careful (1992)",
+		"year" : 1992,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Vermont Is For Lovers (1992)",
+		"year" : 1992,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Vie est belle, La (Life is Rosey) (1987)",
+		"year" : 1987,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Quartier Mozart (1992)",
+		"year" : 1992,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Touki Bouki (Journey of the Hyena) (1973)",
+		"year" : 1973,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Wend Kuuni (God's Gift) (1982)",
+		"year" : 1982,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Spirits of the Dead (Tre passi nel delirio) (1968)",
+		"year" : 1968,
+		"genre" : ["Horror"]
+	},
+	{
+		"title" : "Pharaoh's Army (1995)",
+		"year" : 1995,
+		"genre" : ["War"]
+	},
+	{
+		"title" : "I, Worst of All (Yo, la peor de todas) (1990)",
+		"year" : 1990,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Hungarian Fairy Tale, A (1987)",
+		"year" : 1987,
+		"genre" : ["Fantasy"]
+	},
+	{
+		"title" : "Death in the Garden (Mort en ce jardin, La) (1956)",
+		"year" : 1956,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Collectionneuse, La (1967)",
+		"year" : 1967,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Baton Rouge (1988)",
+		"year" : 1988,
+		"genre" : ["Thriller"]
+	},
+	{
+		"title" : "Liebelei (1933)",
+		"year" : 1933,
+		"genre" : ["Romance"]
+	},
+	{
+		"title" : "Woman in Question, The (1950)",
+		"year" : 1950,
+		"genre" : ["Mystery"]
+	},
+	{
+		"title" : "T-Men (1947)",
+		"year" : 1947,
+		"genre" : ["Film-Noir"]
+	},
+	{
+		"title" : "Invitation, The (Zaproszenie) (1986)",
+		"year" : 1986,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Symphonie pastorale, La (1946)",
+		"year" : 1946,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "American Dream (1990)",
+		"year" : 1990,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "Lashou shentan (1992)",
+		"year" : 1992,
+		"genre" : ["Action","Crime","Drama"]
+	},
+	{
+		"title" : "Terror in a Texas Town (1958)",
+		"year" : 1958,
+		"genre" : ["Western"]
+	},
+	{
+		"title" : "Salut cousin! (1996)",
+		"year" : 1997,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Schizopolis (1996)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "To Have, or Not (1995)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Duoluo tianshi (1995)",
+		"year" : 1998,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Magic Hour, The (1998)",
+		"year" : 1998,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Death in Brunswick (1991)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Everest (1998)",
+		"year" : 1998,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "Shopping (1994)",
+		"year" : 1996,
+		"genre" : ["Action","Thriller"]
+	},
+	{
+		"title" : "Nemesis 2: Nebula (1995)",
+		"year" : 1995,
+		"genre" : ["Action","Sci-Fi","Thriller"]
+	},
+	{
+		"title" : "Romper Stomper (1992)",
+		"year" : 1992,
+		"genre" : ["Action","Drama"]
+	},
+	{
+		"title" : "City of Industry (1997)",
+		"year" : 1997,
+		"genre" : ["Crime","Thriller"]
+	},
+	{
+		"title" : "Someone Else's America (1995)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Guantanamera (1994)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Office Killer (1997)",
+		"year" : 1997,
+		"genre" : ["Thriller"]
+	},
+	{
+		"title" : "Price Above Rubies, A (1998)",
+		"year" : 1998,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Angela (1995)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "He Walked by Night (1948)",
+		"year" : 1948,
+		"genre" : ["Crime","Film-Noir","Thriller"]
+	},
+	{
+		"title" : "Love Serenade (1996)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Deceiver (1997)",
+		"year" : 1997,
+		"genre" : ["Crime"]
+	},
+	{
+		"title" : "Hurricane Streets (1998)",
+		"year" : 1998,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Buddy (1997)",
+		"year" : 1997,
+		"genre" : ["Adventure","Children","Drama"]
+	},
+	{
+		"title" : "B*A*P*S (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Truth or Consequences, N.M. (1997)",
+		"year" : 1997,
+		"genre" : ["Action","Crime","Romance"]
+	},
+	{
+		"title" : "Intimate Relations (1996)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Leading Man, The (1996)",
+		"year" : 1998,
+		"genre" : ["Romance"]
+	},
+	{
+		"title" : "Tokyo Fist (1995)",
+		"year" : 1998,
+		"genre" : ["Action","Drama"]
+	},
+	{
+		"title" : "Reluctant Debutante, The (1958)",
+		"year" : 1958,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Warriors of Virtue (1997)",
+		"year" : 1997,
+		"genre" : ["Action","Adventure","Children","Fantasy"]
+	},
+	{
+		"title" : "Desert Winds (1995)",
+		"year" : 1995,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Hugo Pool (1997)",
+		"year" : 1997,
+		"genre" : ["Romance"]
+	},
+	{
+		"title" : "King of New York (1990)",
+		"year" : 1990,
+		"genre" : ["Action","Crime"]
+	},
+	{
+		"title" : "All Things Fair (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Sixth Man, The (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Butterfly Kiss (1995)",
+		"year" : 1996,
+		"genre" : ["Thriller"]
+	},
+	{
+		"title" : "Paris, France (1993)",
+		"year" : 1993,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Cérémonie, La (1995)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Hush (1998)",
+		"year" : 1998,
+		"genre" : ["Thriller"]
+	},
+	{
+		"title" : "Nightwatch (1997)",
+		"year" : 1997,
+		"genre" : ["Horror","Thriller"]
+	},
+	{
+		"title" : "Nobody Loves Me (Keiner liebt mich) (1994)",
+		"year" : 1996,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Wife, The (1995)",
+		"year" : 1996,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Lamerica (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Nico Icon (1995)",
+		"year" : 1995,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "Silence of the Palace, The (Saimt el Qusur) (1994)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Slingshot, The (1993)",
+		"year" : 1993,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Land and Freedom (Tierra y libertad) (1995)",
+		"year" : 1996,
+		"genre" : ["War"]
+	},
+	{
+		"title" : "Á köldum klaka (Cold Fever) (1994)",
+		"year" : 1996,
+		"genre" : ["Comedy","Drama"]
+	},
+	{
+		"title" : "Etz Hadomim Tafus (Under the Domin Tree) (1994)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Two Friends (1986) ",
+		"year" : 1986,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Brothers in Trouble (1995)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Girls Town (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Normal Life (1996)",
+		"year" : 1996,
+		"genre" : ["Crime","Drama"]
+	},
+	{
+		"title" : "Bitter Sugar (Azucar Amargo) (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Eighth Day, The (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Dadetown (1995)",
+		"year" : 1996,
+		"genre" : ["Documentary"]
+	},
+	{
+		"title" : "Some Mother's Son (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Angel Baby (1995)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Sudden Manhattan (1996)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Butcher Boy, The (1998)",
+		"year" : 1998,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Men With Guns (1997)",
+		"year" : 1998,
+		"genre" : ["Action","Drama"]
+	},
+	{
+		"title" : "Hana-bi (1997)",
+		"year" : 1998,
+		"genre" : ["Comedy","Crime","Drama"]
+	},
+	{
+		"title" : "Niagara, Niagara (1997)",
+		"year" : 1998,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Big One, The (1997)",
+		"year" : 1998,
+		"genre" : ["Comedy","Documentary"]
+	},
+	{
+		"title" : "Butcher Boy, The (1998)",
+		"year" : 1998,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Spanish Prisoner, The (1997)",
+		"year" : 1998,
+		"genre" : ["Drama","Thriller"]
+	},
+	{
+		"title" : "Temptress Moon (Feng Yue) (1996)",
+		"year" : 1997,
+		"genre" : ["Romance"]
+	},
+	{
+		"title" : "Entertaining Angels: The Dorothy Day Story (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Chairman of the Board (1998)",
+		"year" : 1998,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Favor, The (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Little City (1998)",
+		"year" : 1998,
+		"genre" : ["Comedy","Romance"]
+	},
+	{
+		"title" : "Target (1995)",
+		"year" : 1996,
+		"genre" : ["Action","Drama"]
+	},
+	{
+		"title" : "Substance of Fire, The (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Getting Away With Murder (1996)",
+		"year" : 1996,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Small Faces (1995)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "New Age, The (1994)",
+		"year" : 1994,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Rough Magic (1995)",
+		"year" : 1997,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "Nothing Personal (1995)",
+		"year" : 1997,
+		"genre" : ["Drama","War"]
+	},
+	{
+		"title" : "8 Heads in a Duffel Bag (1997)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Brother's Kiss, A (1997)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Ripe (1996)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Next Step, The (1995)",
+		"year" : 1997,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Wedding Bell Blues (1996)",
+		"year" : 1997,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "MURDER and murder (1996)",
+		"year" : 1997,
+		"genre" : ["Crime","Drama","Mystery"]
+	},
+	{
+		"title" : "Tainted (1998)",
+		"year" : 1998,
+		"genre" : ["Comedy","Thriller"]
+	},
+	{
+		"title" : "Further Gesture, A (1996)",
+		"year" : 1998,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Kika (1993)",
+		"year" : 1993,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Mirage (1995)",
+		"year" : 1995,
+		"genre" : ["Action","Thriller"]
+	},
+	{
+		"title" : "Mamma Roma (1962)",
+		"year" : 1962,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Sunchaser, The (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "War at Home, The (1996)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Sweet Nothing (1995)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "Mat' i syn (1997)",
+		"year" : 1998,
+		"genre" : ["Drama"]
+	},
+	{
+		"title" : "B. Monkey (1998)",
+		"year" : 1998,
+		"genre" : ["Romance","Thriller"]
+	},
+	{
+		"title" : "Sliding Doors (1998)",
+		"year" : 1998,
+		"genre" : ["Drama","Romance"]
+	},
+	{
+		"title" : "You So Crazy (1994)",
+		"year" : 1994,
+		"genre" : ["Comedy"]
+	},
+	{
+		"title" : "Scream of Stone (Schrei aus Stein) (1991)",
+		"year" : 1996,
+		"genre" : ["Drama"]
+	}
+]
