@@ -21,7 +21,11 @@
 
 * Para o exemplo foi utilizado a base [MovieLens 100k](https://grouplens.org/datasets/movielens/100k/) (ml100k), com dados de 100 mil filmes e reviews.
 
-* Para converter os campos "title", "year" e "genre" do arquivo u.item para o formato JSON execute conversor.exe e um arquivo com nome de movie.json será criado. O código da aplicação é discriminado em main.c
+* Mais especificamente, apenas o arquivo u.item foi utilizado, já que ele contem os campos "title", "year" e "genre" dos filmes.
+
+	* Para converter o arquivo para o formato JSON se utiliza o executavel conversor.exe discriminado em main.c
+
+	* Execute conversor.exe na mesmo diretório do arquivo u.item e um arquivo com nome de movie.json será criado. Posteriormente esse arquivo será utilizado para povoar o nosso servidor de buscas
 
 ## Passos de instalação do servidor:
 
