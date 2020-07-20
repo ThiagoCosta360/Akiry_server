@@ -1,5 +1,3 @@
-
-
 var restify = require('restify');
 var routes = require('./routes');
 var client = require('./elastic');

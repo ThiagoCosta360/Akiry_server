@@ -1,5 +1,3 @@
-
-
 var server = require('../src/server');
 var debug = require('debug')('nodestr:server');
 
@@ -8,9 +6,9 @@ var port = 8080
 
 
 
-server.listen(port, () =>{
-	console.log('%s está online em %s',server.name, server.url);
-	console.log("Para derrubar o servidor: ctrl + c");
+server.listen(port, () => {
+  console.log('%s está online em %s', server.name, server.url);
+  console.log("Para derrubar o servidor: ctrl + c");
 });
 server.on('error', onError);
 
@@ -19,9 +17,9 @@ function onError(error) {
     throw error;
   }
 
-  const bind = typeof port === 'string'
-    ? 'Pipe ' + port
-    : 'Port ' + port;
+  const bind = typeof port === 'string' ?
+    'Pipe ' + port :
+    'Port ' + port;
 
   switch (error.code) {
     case 'EACCES':

@@ -1,5 +1,3 @@
-
-
 var elasticsearch = require('elasticsearch');
 
 
@@ -15,11 +13,10 @@ client.ping({
 }, function (error) {
   if (error) {
     console.error('O cluster não foi conectado');
-  } 
-  else {
+  } else {
     console.log('Elastic search conectado com sucesso');
   }
-  
+
 });
 
 module.exports = client;
